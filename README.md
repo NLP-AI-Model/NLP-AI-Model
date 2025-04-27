@@ -65,6 +65,3 @@ Faculty of Computer Science, University of 6 October, Al-Giza, Egypt
 A full list of references is available in the project documentation. Key references include works on hypergraph social modeling, multilingual tokenization, cross-lingual embeddings, low-resource NLP, and ethical practices.
 
 ---
-
-Would you also like me to generate a second version that’s a bit **more detailed** for a GitHub project page, including a nice table of contents and badges (like "Build passing", "License", etc.)? 🚀  
-It could make your project look even more professional if you plan to publish it!
