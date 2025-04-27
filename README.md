@@ -43,28 +43,37 @@
 - **Multimodal Translation**: Combining audio, video, and text for next-generation translation and comprehension models.
 
 ## Getting Started
-```bash
-# Install required libraries
-pip install transformers scikit-learn
 
-# Example: Run Multilingual Named Entity Recognition
-from transformers import pipeline
+### Installation
 
-nlp = pipeline("ner", model="xlm-roberta-large", tokenizer="xlm-roberta-large")
-text = "Barack Obama visited Paris in 2023."
-print(nlp(text))
-```
+1. Create a new Python virtual environment (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   ```
 
-## Contributors
-- Mohamed Osama
-- Hesham Mohamed
-- Wael Bahaa Al-Dien  
-Faculty of Computer Science, University of 6 October, Al-Giza, Egypt
+2. Install the package and its dependencies:
+   ```bash
+   pip install -e .
+   ```
 
-## References
-A full list of references is available in the project documentation. Key references include works on hypergraph social modeling, multilingual tokenization, cross-lingual embeddings, low-resource NLP, and ethical practices.
+   Or install dependencies directly:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Working with Training Data
+### Common Issues
+
+If you encounter CUDA/PyTorch related errors:
+
+1. First uninstall existing torch installation:
+   ```bash
+   pip uninstall torch torchvision torchaudio
+   ```
+
+2. Then install the correct PyTorch version for your system from [PyTorch official website](https://pytorch.org/get-started/locally/)
+
+### Working with Training Data
 
 The training dataset (`train.csv`) is quite large and may not display directly on GitHub. To work with the data:
 
