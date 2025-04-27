@@ -27,7 +27,7 @@
 
 ## Applications
 - **Social Media Analysis**: Extract macro-level patterns from massive online communication datasets.
-- **Cross-Lingual Information Retrieval**: Find and retrieve documents across different languages effectively.
+- **Cross-Lingual Information Retrieval**: Effectively find and retrieve documents across different languages.
 - **Machine Translation and Paraphrasing**: Develop multilingual paraphrasing systems for diverse linguistic communities.
 - **Low-Resource Language Support**: Expand NLP capabilities to understudied and endangered languages.
 - **Multimodal Multilingual NLP**: Integrate NLP with visual and speech modalities for richer interpretation (e.g., Emotion Detection).
@@ -35,7 +35,7 @@
 ## Challenges Addressed
 - **Language Diversity and Fairness**: Ensures fair treatment across languages with different character sets and scripts.
 - **Low-Resource Language Processing**: Employs transfer learning and cross-lingual techniques to overcome data scarcity.
-- **Ethical Considerations**: Tackles bias, privacy, data protection, and coloniality issues inherent in multilingual NLP projects.
+- **Ethical Considerations**: This section tackles the bias, privacy, data protection, and coloniality issues inherent in multilingual NLP projects.
 
 ## Future Directions
 - **Zero-shot Learning**: Extending capabilities to languages never seen during training.
@@ -63,5 +63,3 @@ Faculty of Computer Science, University of 6 October, Al-Giza, Egypt
 
 ## References
 A full list of references is available in the project documentation. Key references include works on hypergraph social modeling, multilingual tokenization, cross-lingual embeddings, low-resource NLP, and ethical practices.
-
----
