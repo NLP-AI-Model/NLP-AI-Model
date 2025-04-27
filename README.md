@@ -63,3 +63,31 @@ Faculty of Computer Science, University of 6 October, Al-Giza, Egypt
 
 ## References
 A full list of references is available in the project documentation. Key references include works on hypergraph social modeling, multilingual tokenization, cross-lingual embeddings, low-resource NLP, and ethical practices.
+
+## Working with Training Data
+
+The training dataset (`train.csv`) is quite large and may not display directly on GitHub. To work with the data:
+
+1. Clone the repository locally
+2. Use the provided `split_data.py` script to split the training data into manageable chunks:
+   ```bash
+   python split_data.py
+   ```
+   This will create smaller CSV files in the `train_chunks` directory.
+
+3. You can then work with individual chunks or combine them as needed for training.
+
+## Model Training
+
+The model training code is provided in `NER (NLP).ipynb`. Follow these steps:
+
+1. Install required dependencies:
+   ```bash
+   pip install transformers datasets seqeval pandas
+   ```
+
+2. Open and run the notebook to train the NER model
+
+## Usage
+
+[Rest of existing README content...]

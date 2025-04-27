@@ -1,0 +1,1474 @@
+id,anchor,target,context,score
+1e1f881c014b27f1,vertical comb,comb therapy,B81,0.0
+62adf1a79cdcdcd8,vertical comb,electrode,B81,0.25
+e39accc1e9470efc,vertical comb,main frame,B81,0.25
+32102b760765c7dd,vertical comb,microfabricated actuator,B81,0.25
+bd73e6a1ad01b298,vertical comb,microresonator,B81,0.25
+21c610003877d053,vertical comb,output,B81,0.0
+c5482743906c0af7,vertical comb,perpendicular comb,B81,0.75
+29e3dd400dd71ddc,vertical comb,response,B81,0.0
+2f431da22e2aba45,vertical comb,silicon carbide microelectromechanical device,B81,0.25
+a5b5c35ab350604e,vertical comb,stationary elements,B81,0.25
+e34d6fde868bc02d,vertical comb,transition metal,B81,0.25
+4a38579f7f62f4ac,vertical comb,upright comb,B81,0.75
+d454381f08ed29af,vertical comb,vertical,B81,0.5
+eafb3d36e6c3bd8d,vertical comb,vertical comb,B81,1.0
+69f7e97c72676203,vertical comb,vertical comb drive,B81,0.5
+5934f6f97eae6adc,vertical comb,vertical comb drives,B81,0.5
+e6e473d7cae86df2,vertical comb,vertical comb teeth,B81,0.5
+eb756baed8aeec57,vertical comb,vertical combing,B81,1.0
+4b9074163f702d9c,vertical comb,vertical combs,B81,1.0
+c3645f4fb43324ee,vertical comb,vertical garden,B81,0.0
+6c08f6d42b2f7c9f,vertical comb,vertical injection moulding machine,B81,0.0
+b781ae2af825d695,vertical comb,vertical louvers,B81,0.0
+0b1539cc6caef35c,vertical comb,vertically aligned comb,B81,0.75
+8947d3199c6b332d,vertical comb,vertically comb,B81,1.0
+500c0935b43eb615,vertical comb,vertically combing,B81,1.0
+9f06392f6486c52e,vertical comb,vertically combs,B81,1.0
+d3bf539ad2bc9bc5,vibratory actuator,acoustic wave,A61,0.25
+81b4e4946dff81f1,vibratory actuator,act fast,A61,0.0
+768304e9521815f2,vibratory actuator,act quick,A61,0.0
+a1fbe1c557542c85,vibratory actuator,act slow,A61,0.0
+8143de8578137c37,vibratory actuator,actuating device,A61,0.5
+8749503fcfeba583,vibratory actuator,actuator,A61,0.5
+2c97676b79454dbf,vibratory actuator,component of a machine,A61,0.25
+28c86e12217425fe,vibratory actuator,conductive connector,A61,0.5
+40366b0f537f37bb,vibratory actuator,conductive member,A61,0.25
+235295dfea550743,vibratory actuator,connector,A61,0.5
+9703f1c77297a70e,vibratory actuator,controlling a mechanism,A61,0.25
+c760afd8879efe22,vibratory actuator,implantable port,A61,0.25
+a91c904ac970af80,vibratory actuator,linear resonant actuators,A61,0.5
+ca3894068b794a21,vibratory actuator,movable actuator,A61,0.5
+ccaa3ad76d3f3592,vibratory actuator,pump,A61,0.25
+e14df2c8dfec6788,vibratory actuator,responsible for moving,A61,0.25
+5eaac8c8f04701e4,vibratory actuator,semiconductor connector,A61,0.5
+537f45b108a4c955,vibratory actuator,semiconductor member,A61,0.5
+fde248f5f66c908a,vibratory actuator,substrate,A61,0.0
+0e85613d461df514,vibratory actuator,surgical instrument,A61,0.25
+449d4a970aabe753,vibratory actuator,tool,A61,0.25
+a3ebda4bed8513a3,vibratory actuator,vibration motors,A61,0.5
+50c2a0f3493122ab,vibratory actuator,vibration sound,A61,0.0
+d220cf901b304df2,vibratory actuator,vibrational spectroscopy,A61,0.0
+6af7ba75cc53d0e4,vibratory actuator,vibratory bowl,A61,0.0
+a0cd70110431f862,vibratory actuator,vibratory conjunction,A61,0.5
+06c22558fc6d2a75,vibratory actuator,vibratory joining part,A61,0.5
+26281ee0a1300deb,vibratory actuator,vibratory lever,A61,0.75
+3d56dee9eb51e40c,vibratory actuator,vibratory link,A61,0.5
+f4ec75e7fe9f1646,vibratory actuator,fastening,E02,0.5
+3b394e634dcc69c1,vibratory actuator,fastening anchor,E02,0.5
+03cec1e884b6ba82,vibratory actuator,fastening device,E02,0.5
+318ad20e650d4f57,vibratory actuator,pulley,E02,0.25
+5782b5abd676e621,vibratory actuator,sprocket,E02,0.25
+6512b439baa4cc7c,vibratory actuator,tamping,E02,0.25
+34fa3f07954c06a4,vibratory actuator,acoustic drive,H02,0.25
+6dd6b5dbbb278fb9,vibratory actuator,actuator,H02,0.5
+2ac98b919073a47e,vibratory actuator,actuator aspect,H02,0.5
+f25ce31f0b49318d,vibratory actuator,actuators,H02,0.5
+9dc9e2a7b0e45814,vibratory actuator,control mechanism,H02,0.25
+bb35cb2639dae154,vibratory actuator,driver,H02,0.25
+c593d6617e9d7381,vibratory actuator,driving actuator,H02,0.5
+9ce8a8fd3a8c4aa8,vibratory actuator,driving device,H02,0.5
+b50b6c8b10644e34,vibratory actuator,electromechanical converting device,H02,0.25
+a07df38d71721d5a,vibratory actuator,linear actuator,H02,0.5
+4e2c2e5049269246,vibratory actuator,linear device,H02,0.25
+462062d41fd1f567,vibratory actuator,linear drive apparatus,H02,0.5
+fa03945e14aa4fba,vibratory actuator,linear drive device,H02,0.25
+f2cc48c6c89e109c,vibratory actuator,linear driving apparatus,H02,0.5
+565c6ed6922d1736,vibratory actuator,linear driving device,H02,0.25
+47b903414e0ee89a,vibratory actuator,magnetic drive apparatus,H02,0.25
+7458ea79275140f0,vibratory actuator,magnetic drive device,H02,0.5
+0dae22ace61da4c2,vibratory actuator,magnetic driving apparatus,H02,0.25
+e29dd4dcd1b6454b,vibratory actuator,magnetic driving device,H02,0.5
+d191118bb89a20d5,vibratory actuator,piezo electric motor,H02,0.25
+7b4932ca117394de,vibratory actuator,piezo translator,H02,0.25
+ea6b7e26d8733fc1,vibratory actuator,piezoelectric actuator,H02,0.75
+fc3bba68d5faa8f2,vibratory actuator,piezoelectric actuators,H02,0.75
+edb85965f87f59f5,vibratory actuator,valve actuator,H02,0.0
+dab5ae13e74ad4b5,vibratory actuator,vibrating actuator,H02,1.0
+47e1fd2c8d375a6d,vibratory actuator,vibrating driver,H02,0.75
+df185da5953534e6,vibratory actuator,vibrating linear actuator,H02,0.5
+bafc9e9d4acd13b9,vibratory actuator,vibrating member,H02,0.5
+b94e40843c16f5b5,vibratory actuator,vibrating sound,H02,0.0
+8253ad8c0779690b,vibratory actuator,vibrating table,H02,0.0
+52828dec674a48e9,vibratory actuator,vibrating tuning fork,H02,0.0
+34f7655bf9d31ef8,vibratory actuator,vibration actuator,H02,1.0
+de4c85986c8ef59a,vibratory actuator,vibration actuators,H02,1.0
+fd4b9679fa230e61,vibratory actuator,vibration amplifier,H02,0.5
+8ef5e22d4bd94259,vibratory actuator,vibration displacement actuator,H02,0.5
+ce45faa7bc3d9512,vibratory actuator,vibration displacement actuators,H02,0.5
+2acd4607d469dfd1,vibratory actuator,vibration generating actuators,H02,0.5
+c74040dd276c3a87,vibratory actuator,vibration generator,H02,0.75
+ce0fceaaf1359fe3,vibratory actuator,vibration type actuator,H02,0.75
+013f28f013568e12,vibratory actuator,vibration wave actuator,H02,0.5
+1b42c143d37c6286,vibratory actuator,vibrator,H02,0.5
+981b97836fa4c6f9,vibratory actuator,vibratory actuators,H02,1.0
+97520be102235a3b,vibratory actuator,vibratory motion,H02,0.0
+fb9eec318b8d1347,vibratory actuator,vibratory roller,H02,0.0
+614fc430b070209c,vibratory actuator,diaphragm,H04,0.5
+0f4abebe7ae22c2d,vibratory actuator,piezoelectric diaphragm,H04,0.5
+6530be27203aae7e,vibratory actuator,piezoelectric transducer,H04,0.5
+a8d898d152c77b27,vibratory actuator,transducer,H04,0.5
+4cc30300996a15fb,video light,animation signals,G03,0.5
+9fefd6cc104d3ec1,video light,audio light,G03,0.25
+d2aeb95c3ab09f71,video light,camera,G03,0.25
+72400717f36d4c3f,video light,crt tube,G03,0.25
+1fcb3ac04c33c004,video light,display light,G03,0.75
+104f7725b81c316c,video light,display luminous flux,G03,0.5
+62e566bf8d77da3f,video light,illumination,G03,0.25
+074773ea72a408a5,video light,image,G03,0.5
+1a1188f11eedaddb,video light,image light,G03,0.5
+38548d1d8b0145ba,video light,image search,G03,0.0
+66d4d41336bbab2e,video light,image video,G03,0.5
+b0bc4407a4db067f,video light,light,G03,0.5
+6e99dbce8ff8e3a0,video light,light beam,G03,0.5
+57930d0f56d75871,video light,light bill,G03,0.0
+00f8f104cae2bf56,video light,light fixture,G03,0.0
+5a236c2dd650cd76,video light,light image,G03,0.5
+715920fc20e1dfb1,video light,light video,G03,1.0
+eb9b1673769b163a,video light,light year,G03,0.0
+7cf1d6bbe4ddf2e4,video light,multimedia signal,G03,0.5
+a71d7e1a773352c7,video light,pictures,G03,0.5
+4463107e93c4b18d,video light,polar screen,G03,0.5
+248ff0de78f25c3d,video light,projection image,G03,0.5
+5e251f84954c3e67,video light,projection light,G03,0.5
+47c608efcbb5d06c,video light,projector light,G03,0.5
+0b4967756ed1d9f3,video light,reflection mirror,G03,0.25
+da0b4ae388626b8c,video light,shooting,G03,0.25
+a4bbf578f465ba75,video light,video,G03,0.5
+6beace7c72a22af3,video light,video converter,G03,0.0
+f2226a95e3c73f84,video light,video image,G03,0.5
+16a40fb5aa433240,video light,video projecting device,G03,0.5
+9f8cc12ef44243b0,video light,videos,G03,0.5
+0f12a2893c696fd8,video light,videos light,G03,1.0
+4d6df46fcd7a1d59,video lines,active picture lines,G09,0.5
+dadf5e62055ab461,video lines,audio lines,G09,0.25
+5b16f16ec334a3fd,video lines,columns,G09,0.25
+e16b54c5c3650b03,video lines,data,G09,0.5
+1648bbc1a9fc4695,video lines,device maker,G09,0.0
+2affeab8a2f17b1b,video lines,display,G09,0.25
+ed7c0eb1052d3693,video lines,display cells,G09,0.25
+a7e729cb958dbea9,video lines,display electrodes,G09,0.25
+6d1cd4ee227cdda9,video lines,display line,G09,0.5
+ee663f042d365925,video lines,display lines,G09,0.5
+ed6d51146eb071fd,video lines,electrodes,G09,0.25
+b5ab3003fe70d350,video lines,electronic circuit,G09,0.25
+de732e6b39168f75,video lines,images,G09,0.5
+7323753630fb1e37,video lines,line graph,G09,0.0
+4b1a6bba652b50f2,video lines,line segment,G09,0.0
+c7d2d37f4a964652,video lines,lines,G09,0.5
+0e208aabbd827fee,video lines,lines background,G09,0.0
+e230100b91c29291,video lines,memory,G09,0.5
+7a0c2fad984bd61a,video lines,oled device,G09,0.25
+db7200af1024703c,video lines,output circuits,G09,0.25
+9963f031c6e3f8c6,video lines,output units,G09,0.5
+d921754cc627da3e,video lines,pictorial radiation,G09,0.5
+167a043442cd6efb,video lines,picture lines,G09,0.75
+0b2547ca9f78e7f4,video lines,pixels,G09,0.5
+f0e0abf00ec4e62d,video lines,respective signal line,G09,0.5
+09512d921c0e4875,video lines,respective signal lines,G09,0.5
+01b0923a86c30686,video lines,respective video line,G09,0.5
+336a3d82fa8bb19c,video lines,respective video lines,G09,0.5
+c178ef6b20121d39,video lines,scanning electrodes,G09,0.25
+abb88d19308d65fd,video lines,semiconductor circuits,G09,0.25
+15104512ffda0bb7,video lines,semiconductor units,G09,0.5
+2744e94e066d1d56,video lines,signal line,G09,0.5
+b604f4544c0fdbdd,video lines,signal lines,G09,0.5
+66466cd829a14e9e,video lines,source data,G09,0.5
+3473a880f4d17d57,video lines,source images,G09,0.5
+e018ad76a7b08222,video lines,sport field,G09,0.0
+e2b4d19f7d95d796,video lines,television frame,G09,0.5
+c75e66ca753961ea,video lines,transistors,G09,0.25
+303192caf8668cef,video lines,video data,G09,0.5
+676a09ad6d639834,video lines,video field,G09,0.75
+99969fa688defc5e,video lines,video game,G09,0.0
+c7b196e9d985ccbc,video lines,video images,G09,0.5
+0d55807abb72fada,video lines,video line,G09,1.0
+d1ccc217f1d79381,video lines,video portions,G09,0.5
+d6942ff7d9bddbcf,video lines,video signal line,G09,1.0
+24c3c95cc3bea821,video lines,video signal lines,G09,1.0
+55ccd572ff282605,video lines,active picture lines,H04,0.25
+bdc45ed9cd569cf0,video lines,active video,H04,0.25
+412608e0ff1217a3,video lines,active video lines,H04,0.5
+f65390f02dc05c39,video lines,analog video signal,H04,0.5
+3e1c5927fd341404,video lines,circuits,H04,0.25
+4043a122da1398bf,video lines,data,H04,0.25
+b2f1830d54086bc9,video lines,data sections,H04,0.25
+54fab50e96459cc5,video lines,fields,H04,0.0
+47ca58a487d33530,video lines,fields sections,H04,0.25
+40acef1f9515cdbb,video lines,line graph,H04,0.0
+6843ba4cd937514c,video lines,line of control,H04,0.0
+e298050cb7c3bce1,video lines,line segment,H04,0.0
+eaa5c63b023ff754,video lines,line video,H04,1.0
+608e7298106064cc,video lines,lines,H04,0.5
+f082b01a53a1e13f,video lines,lines of video,H04,1.0
+08d02163dc9c2c62,video lines,poetry lines,H04,0.0
+aeaaa19e1688fc10,video lines,received signals,H04,0.25
+874cebbc1dce195e,video lines,resection line guide,H04,0.25
+296e052ccbeb7c30,video lines,sections,H04,0.25
+d0d2d0698763c620,video lines,signal transmission line,H04,0.25
+7da08d22e0dd9370,video lines,signals,H04,0.25
+b58b3e36e1b03e3e,video lines,signature signals,H04,0.25
+0aa6c01f66bae3c3,video lines,song lines,H04,0.0
+31e35201500f9c29,video lines,television lines,H04,0.25
+dde4fec58f88ecd8,video lines,video call,H04,0.0
+c9b2e4e1d6a56f56,video lines,video field,H04,0.5
+0817b96f405e6cf9,video lines,video line selector,H04,0.5
+3d00365ed43561f6,video lines,video lines extracting,H04,0.5
+c4f63808c19374d5,video lines,video signal,H04,0.5
+61a15345bac85ee9,video lines,video signal lines,H04,0.75
+c1f6b03fee191f37,video lines,word lines,H04,0.25
+ac0bd63e6716754d,voltage patterns,arbitrary voltages,G06,0.75
+53cad438f91018b7,voltage patterns,conventional characteristics,G06,0.5
+ac9cf30135bf8310,voltage patterns,current pattern,G06,0.25
+fc8853ebfa638206,voltage patterns,differential potentials,G06,0.25
+24e8ad2043609522,voltage patterns,electrical system,G06,0.25
+be1f4d686ba7e6ef,voltage patterns,home sets,G06,0.0
+e329fbfdf1734b29,voltage patterns,pattern,G06,0.5
+eddba7719ce3fbcb,voltage patterns,patterns,G06,0.5
+b5032029ff47e7a3,voltage patterns,power circuit,G06,0.25
+d650e6fe750054af,voltage patterns,pulsating voltages,G06,0.5
+06fbeb2a00f01762,voltage patterns,row waveforms,G06,0.5
+ac9e2d3a0b9d2b2b,voltage patterns,set voltage patterns,G06,0.5
+339b18a239d8bc9d,voltage patterns,sets,G06,0.0
+37867d118179654a,voltage patterns,system software,G06,0.0
+b9360b2c4ee0ebff,voltage patterns,system testing,G06,0.0
+6a4830916b201706,voltage patterns,time varying voltages,G06,0.5
+1824fa13d12faa1b,voltage patterns,various pattern,G06,0.5
+a7a83844c779025d,voltage patterns,various voltage pattern,G06,0.75
+676b6dbeaa02487e,voltage patterns,various voltage patterns,G06,0.5
+309de00bf9faadbb,voltage patterns,voltage,G06,0.5
+59ecb9c89d37c8a3,voltage patterns,voltage of patterns,G06,1.0
+546626b3f6a779b0,voltage patterns,voltage paradigm,G06,0.75
+a8321a0d3c2b8b92,voltage patterns,voltage pattern,G06,1.0
+951d42acd9ccc13d,voltage patterns,voltage values,G06,0.5
+7f5d187c62256cfc,voltage patterns,voltages,G06,0.5
+1c89c93f7eb3f974,voltage patterns,voltages pattern,G06,1.0
+b15e0179a16bc81a,voltage patterns,voltages patterns,G06,1.0
+3f679f3854521b99,voltage patterns,waveform voltages,G06,0.5
+30cecb410d000822,voltage values,alternating current,B01,0.25
+903af17a517f9f3a,voltage values,amplitude,B01,0.5
+f2651992edbcecb8,voltage values,amplitudes,B01,0.5
+1234c337ad308c76,voltage values,average values,B01,0.25
+31fd5ea1bf3f31b1,voltage values,battery,B01,0.25
+79af65a7800ee427,voltage values,circuit,B01,0.25
+cced151c0233982b,voltage values,constituent values,B01,0.0
+fcb10bb06fdf15a0,voltage values,correlation values,B01,0.25
+292ddc0252cb6488,voltage values,current curves,B01,0.5
+e0450179717222c6,voltage values,current values,B01,0.5
+90a9476ddf3734e0,voltage values,currents,B01,0.5
+89d846a787740804,voltage values,discharge curves,B01,0.25
+7d32e5d54fe2b736,voltage values,discharge values,B01,0.5
+6a6fd842cf487e17,voltage values,electric potential difference,B01,0.75
+e7b83fc68e253e2b,voltage values,electric storage,B01,0.25
+179eedfa82656452,voltage values,electric tension value,B01,0.75
+fc82ea39bde761e4,voltage values,irms values,B01,0.5
+7c2b0364de3bb0c4,voltage values,labeled diagram,B01,0.0
+1e23e8e2844234db,voltage values,lipid value,B01,0.0
+70458c3907e6eedf,voltage values,performance values,B01,0.25
+0f84f4c015f09fdb,voltage values,physical map,B01,0.0
+ba7ef377c9e8f430,voltage values,resource evaluation,B01,0.0
+2606d20f5f0de344,voltage values,results,B01,0.25
+aa65aed44ad97946,voltage values,rms value,B01,0.5
+2e579c00c6bbef77,voltage values,sinusoidal waveform,B01,0.25
+037d7604f37eccbe,voltage values,sugar level,B01,0.0
+7f9e08d792d964c2,voltage values,time values,B01,0.25
+5daf8ae7e1dc5a28,voltage values,values,B01,0.25
+8409d211e74d0e0a,voltage values,volt,B01,0.5
+fa4476e939114fa9,voltage values,voltage,B01,0.5
+87fc1ef7c274ca82,voltage values,voltage drop values,B01,0.5
+64129e7d79684aeb,voltage values,voltmeter,B01,0.25
+ec0a0c18a1e8f449,voltage values,vrms value,B01,0.5
+0240398ef2f8c671,voltage values,waveforms,B01,0.25
+5cf96a7b9146dc12,voltage values,accuracy,B41,0.25
+6b9f718bb275a2e0,voltage values,aerosol extraction,B41,0.25
+2a7489eec2fb79de,voltage values,aesthetic value,B41,0.0
+a7536ed18cf1db34,voltage values,cylindrically shaped printing forms,B41,0.25
+669ffb32177d02f6,voltage values,effective voltage values,B41,0.75
+1add4af641540279,voltage values,electric potential values,B41,0.75
+e2fcd071f00e6173,voltage values,eye voltage lashes,B41,0.0
+552117cc86e27639,voltage values,laser pulses,B41,0.0
+3bd40ef1d5dfba7e,voltage values,magnitudes,B41,0.25
+9f6ab520f6d0dd4f,voltage values,micro array fluid dispensing apparatus,B41,0.25
+b3bed906afeeb960,voltage values,negative of values,B41,0.25
+d104fa5e4650a7ff,voltage values,negative of voltages,B41,0.5
+58b5ec5ea0e30b9f,voltage values,negative voltage values,B41,0.5
+906df281ba09e9eb,voltage values,negative voltage voltages,B41,0.5
+4f0d2a7e676e7c65,voltage values,peak voltage value,B41,0.5
+f9512b21c1f9376d,voltage values,photolithographic,B41,0.25
+fa5819e79658fdb8,voltage values,positive of supplies,B41,0.25
+d575e071125a055f,voltage values,positive of voltages,B41,0.5
+9c5d135a7ad9f779,voltage values,positive voltage supplies,B41,0.5
+50bf522489aee0dc,voltage values,positive voltage voltages,B41,0.5
+48f0226fb16caad9,voltage values,potential,B41,0.25
+c9835bc580733f61,voltage values,potential accuracy,B41,0.25
+503edd8f0c9ed58a,voltage values,potential levels,B41,0.5
+944b85309fdf7e43,voltage values,potential potentials,B41,0.25
+6d647188322b75d8,voltage values,potential values,B41,0.5
+f3c76d6051294afe,voltage values,potentials,B41,0.25
+4847f49766b30849,voltage values,print marks,B41,0.25
+a488739e130dd643,voltage values,property values,B41,0.0
+13375d8f756bc375,voltage values,rms voltage value,B41,0.75
+9371dcac44b63355,voltage values,social values,B41,0.0
+ad780358b8f34e30,voltage values,suitable of supplies,B41,0.25
+34babc7f6e01be6e,voltage values,suitable of values,B41,0.25
+e4b096b5c58ee0b2,voltage values,suitable of voltages,B41,0.75
+0fa38133d42760fc,voltage values,suitable values,B41,0.25
+e8f9b507870e81ea,voltage values,suitable voltage supplies,B41,0.75
+7d9f063d99ff6d93,voltage values,suitable voltage values,B41,0.75
+3fcbaa1a72ff808c,voltage values,suitable voltage voltages,B41,0.75
+959d8b54e728a4eb,voltage values,suitable voltages,B41,0.75
+22ec3b79c79c4734,voltage values,value of biodiversity,B41,0.0
+edffd4c96ac6efe8,voltage values,values,B41,0.5
+b6fa890f12f75fc7,voltage values,voltage levels,B41,0.75
+a1a01554e910c4cc,voltage values,voltage magnitude,B41,0.75
+c035c43856549f34,voltage values,voltage pulses,B41,0.5
+2fff297b00a77710,voltage values,voltage system,B41,0.5
+2ec0c705d0fbb18d,voltage values,voltage values,B41,1.0
+0ea15ee30fef5058,voltage values,voltage voltages,B41,0.75
+9247949305ba8860,voltage values,voltages,B41,0.5
+319071da99af86a5,voltage values,voltmeter,B41,0.25
+a824bea3ba3154c7,voltage values,applied voltages,H02,0.5
+5c3209f098bd1ed0,voltage values,current values,H02,0.5
+9d198a575d9659ae,voltage values,current voltages,H02,0.5
+0725fd51396426e0,voltage values,levels,H02,0.25
+3136e1e67fa1d93a,voltage values,load voltage value,H02,0.5
+73d1e5e1efef4b76,voltage values,load voltage values,H02,0.5
+5aada9787f0be5a8,voltage values,output voltage value,H02,0.5
+39d674cdc31aa79c,voltage values,output voltage values,H02,0.5
+f4fcb020dc447d92,voltage values,values,H02,0.25
+059d20f3437d9373,voltage values,voltage,H02,0.5
+5bc18d56451e7259,voltage values,voltages,H02,0.5
+ef47241ffa1d9195,wafer inspection system,annual inspection,G01,0.0
+f5eba00b52461634,wafer inspection system,audio system,G01,0.0
+3f91c93a2cf9a34f,wafer inspection system,automated inspection system,G01,0.5
+6499816941278ac4,wafer inspection system,bio inspection,G01,0.0
+dedeba355ad6d342,wafer inspection system,chip,G01,0.25
+79d7fea3562c4afc,wafer inspection system,choco wafers,G01,0.0
+3ca2fe22bfd0db51,wafer inspection system,chocolate wafer,G01,0.0
+fbb27a2a0d470478,wafer inspection system,design processing system,G01,0.25
+fca8fce6e68af4cf,wafer inspection system,design processing tool,G01,0.5
+7e3ae89470a41d53,wafer inspection system,design system,G01,0.25
+bb1d8b238c63a29c,wafer inspection system,design tool,G01,0.25
+6f346a5b8233a559,wafer inspection system,detecting wafer defects,G01,0.5
+46bf722b1c475855,wafer inspection system,device circuit,G01,0.25
+232dad042d1a977d,wafer inspection system,device circuit apparatus,G01,0.25
+4412bb2ba582d8a2,wafer inspection system,device inspection apparatus,G01,0.5
+f054c9604fef6962,wafer inspection system,device inspection system,G01,0.5
+646bc78d55ef4b2d,wafer inspection system,device manufacturing apparatus,G01,0.25
+35ad514e3ca85d8e,wafer inspection system,device manufacturing circuit,G01,0.25
+2a6db1dd4c3c7c7e,wafer inspection system,device projection apparatus,G01,0.5
+9e1b86c39bc13c6e,wafer inspection system,device projection system,G01,0.25
+d3d19bea09c12780,wafer inspection system,exposure apparatus,G01,0.25
+c1cb4d73b702d55c,wafer inspection system,exposure system,G01,0.25
+eedb3bc300eca133,wafer inspection system,include inspection system,G01,0.5
+2d9484e927851fc4,wafer inspection system,integrated circuit,G01,0.5
+3d4eac8a1843e170,wafer inspection system,integrated circuit apparatus,G01,0.5
+c6a65c24e9c6d917,wafer inspection system,integrated manufacturing apparatus,G01,0.5
+7e15304f1acafa0a,wafer inspection system,integrated manufacturing circuit,G01,0.5
+93126b7a5a8f8d59,wafer inspection system,laser alignment apparatus,G01,0.5
+030659332ed906ce,wafer inspection system,laser alignment system,G01,0.25
+e3632180335e26e4,wafer inspection system,laser apparatus,G01,0.5
+38a13b163a68e71f,wafer inspection system,laser inspection apparatus,G01,0.25
+f94258418743c9bd,wafer inspection system,laser inspection system,G01,0.5
+2d94ee4bef3d9fac,wafer inspection system,laser manufacturing apparatus,G01,0.25
+836bca308f9e7ca0,wafer inspection system,laser manufacturing system,G01,0.5
+52587714a059035a,wafer inspection system,laser projection apparatus,G01,0.5
+ac2b193a4a2b20d8,wafer inspection system,laser projection system,G01,0.5
+9ad7128ae72671ee,wafer inspection system,laser system,G01,0.5
+4c00a592607a8ab2,wafer inspection system,layer inspection system,G01,0.75
+5288c95407b4ae9f,wafer inspection system,lithography apparatus,G01,0.25
+7c5615499dabb401,wafer inspection system,lithography system,G01,0.25
+2cf80ae71b474cdb,wafer inspection system,machine vision inspection system,G01,0.5
+406b0a8ecdcd9809,wafer inspection system,manufacturing apparatus,G01,0.25
+e8c472ba1680b34f,wafer inspection system,manufacturing device,G01,0.5
+88c8d0d6703723a2,wafer inspection system,manufacturing system,G01,0.25
+6860a0e6d4b90650,wafer inspection system,memory apparatus,G01,0.5
+8d4decbfcb15849f,wafer inspection system,memory device,G01,0.5
+acf3971f88bdd5e9,wafer inspection system,non wafer inspection system,G01,0.25
+796b467ad269e418,wafer inspection system,optical inspection tool,G01,0.5
+1cf3c5cb82debb5d,wafer inspection system,process design system,G01,0.25
+3e365be2e91aeba3,wafer inspection system,process design tool,G01,0.0
+c6bbce26dd62236c,wafer inspection system,processing system,G01,0.25
+118439e59d0aa2d9,wafer inspection system,processing tool,G01,0.25
+44ab568947072db4,wafer inspection system,removing metal ions,G01,0.25
+7c058f5795c49ce3,wafer inspection system,reticle inspection,G01,0.5
+a89617821270c047,wafer inspection system,security inspection system,G01,0.0
+0a0c43b6a245d63d,wafer inspection system,semiconductor,G01,0.25
+4939705f9f5fdfcb,wafer inspection system,semiconductor wafer,G01,0.5
+24210725440f5c06,wafer inspection system,semiconductor wafer cleaning,G01,0.25
+370a252f6852f7a4,wafer inspection system,substrate inspection system,G01,0.75
+6685115019ba643f,wafer inspection system,system error,G01,0.0
+03f4655e7b54a7bd,wafer inspection system,wafer alignment apparatus,G01,0.5
+80c22e1295c05117,wafer inspection system,wafer alignment system,G01,0.5
+15a1fafcc492dd06,wafer inspection system,wafer inspection,G01,0.5
+d3443338c76d7ae5,wafer inspection system,wafer inspection apparatus,G01,0.75
+4d541a79c9724fa9,wafer inspection system,wafer inspection camera system,G01,0.75
+782c3af842279caa,wafer inspection system,wafer inspection method,G01,0.5
+62d5e453cc0d4b5b,wafer inspection system,wafer manufacturing apparatus,G01,0.25
+44c8024748321a76,wafer inspection system,wafer manufacturing system,G01,0.5
+d34f867d2196d0f0,wafer inspection system,wet cleaning process,G01,0.25
+9637bbd0a875ed10,wake up procedures,back up procedures,G06,0.5
+33ed228607ca94fb,wake up procedures,clock signal,G06,0.25
+50dfe5075b12a56c,wake up procedures,computing block,G06,0.25
+416a435d8e030f39,wake up procedures,condition character,G06,0.0
+95da8dba4c6df547,wake up procedures,endoscopy procedure,G06,0.0
+4cb19a604b5e409d,wake up procedures,general experimental protocol,G06,0.5
+cdb32f6cfbfdd341,wake up procedures,input signal,G06,0.25
+e1ee256a2ee46511,wake up procedures,operating system,G06,0.25
+f18d0d49d5c189fd,wake up procedures,root canal procedure,G06,0.0
+ff0ec65bec149f1b,wake up procedures,set up procedures,G06,0.5
+a2a94f32e7e63a32,wake up procedures,signal rate,G06,0.0
+a23e584c8ca86740,wake up procedures,systems awake condition,G06,0.5
+68f2f7bcb5b1ff0c,wake up procedures,techniques of wake up,G06,0.5
+1592817902ce2cf6,wake up procedures,timer,G06,0.25
+9b212747632b5ac3,wake up procedures,transreceiver,G06,0.25
+c7c119e357514c4e,wake up procedures,up procedures,G06,0.5
+ac544f2ab6c374ca,wake up procedures,vats procedure,G06,0.0
+ae5900b46b6fa8e9,wake up procedures,wake up,G06,0.5
+1436dd25f24613a4,wake up procedures,wake up clock system,G06,0.5
+ef7020377d0804be,wake up procedures,wake up matters,G06,0.0
+9cf975fac1927577,wake up procedures,wake up message,G06,0.5
+167390767754852e,wake up procedures,wake up methods,G06,0.75
+00f10707a2c217a7,wake up procedures,wake up process,G06,0.75
+3d847fb0c61eb60f,wake up procedures,wake up receiver,G06,0.5
+197b25fe46c9009d,wake up procedures,wake up signal,G06,0.5
+07005a86eb483f7e,wake up procedures,wake up technique,G06,0.75
+436484ac2ffb0ce9,walking aids,ambulatory assistive devices,A45,0.75
+bdcad90b0dbc870a,walking aids,collapsible device,A45,0.25
+e837fb091342d61f,walking aids,crutches,A45,0.5
+5cbfe5a5b3fa18e2,walking aids,exercise apparatus,A45,0.25
+e8ea10b089ae7569,walking aids,first aid,A45,0.0
+d867eef70930b991,walking aids,food aid,A45,0.0
+9da9680815bc4e60,walking aids,footwear,A45,0.5
+9f862a94f95be79b,walking aids,medical aid,A45,0.0
+26ced35aed8451e6,walking aids,mobility aids,A45,0.75
+cd4c483376ec68f5,walking aids,mobility impairment,A45,0.5
+ab5ec266013c07ef,walking aids,rescue aid,A45,0.0
+b4ac261bbcff089c,walking aids,walkers,A45,0.5
+6b889531e5f7b856,walking aids,walkers aids,A45,1.0
+403916d57c59fc36,walking aids,walkie talkie,A45,0.0
+1629b8f852bfac58,walking aids,walking aid,A45,1.0
+854f34664f1d44de,walking aids,walking aid backing,A45,0.5
+cbc33b53d68fd48e,walking aids,walking assistance,A45,0.75
+bdda51235a521889,walking aids,walking assistance apparatus,A45,0.75
+d207cd369de951c7,walking aids,walking device,A45,0.25
+5371e2b73f47c14e,walking aids,walking equipment,A45,0.25
+18d56df5647ec224,walking aids,walking helper,A45,0.75
+295da650cb76d213,walking aids,walking machine,A45,0.25
+f5affb0dc963adb1,walking aids,walking support,A45,0.75
+3ec7aca023c4929a,walking aids,white canes,A45,0.25
+c43918ab06486d70,walking aids,aid system,B62,0.5
+b53196ca8a167e25,walking aids,aids for medical emergencies,B62,0.0
+ad94a56e028a63c6,walking aids,ambulatory assistive devices,B62,0.75
+f07574c1f76dd289,walking aids,band aid,B62,0.0
+4af7439d1f361f57,walking aids,bottle carrier,B62,0.25
+74fe149735ef0d77,walking aids,crutches,B62,0.5
+2e689627d5f4241b,walking aids,devices,B62,0.25
+c8727dce314cd0b6,walking aids,dog walking,B62,0.0
+bf5bb372ea224eb2,walking aids,height adjustable,B62,0.25
+84182782efcd7af5,walking aids,impairment,B62,0.25
+d3bd6d03f2330157,walking aids,luggage transporter,B62,0.25
+d90af70a9e97879a,walking aids,mobility aid,B62,0.75
+06e180d44f23510d,walking aids,moon walking,B62,0.0
+6c0fcda41e1dfa3f,walking aids,orthopedic,B62,0.5
+2d9d4423e318425b,walking aids,orthopedic devices,B62,0.5
+f304cfbc866cdb33,walking aids,orthopedic shoes,B62,0.5
+797e1dc152e9d053,walking aids,orthopedic support,B62,0.5
+cb2c6e0d4b3799f7,walking aids,shoes for walking,B62,0.0
+f49c67fd1eb0b8e7,walking aids,support,B62,0.25
+711cc8d20905f702,walking aids,support devices,B62,0.5
+b7f652c0d3e73474,walking aids,suspension device,B62,0.25
+0affcc90bf45a77b,walking aids,vehicle trailers,B62,0.25
+455e43ae603283de,walking aids,walkers,B62,0.75
+5d243bef346c3501,walking aids,walking aids,B62,1.0
+cf2486222e58c0e4,walking aids,walking pneumonia,B62,0.0
+d9847358e77b0593,walking aids,walking sticks,B62,0.5
+969bd1d8963a6fa0,walking aids,walking supports,B62,0.75
+3e6f0eb9461a9b87,walnut oil,beeswax,A61,0.5
+7f9c4af53c5dc3aa,walnut oil,beeswax oil,A61,0.5
+de3d59caff48dfb0,walnut oil,black walnut,A61,0.5
+1bfab1bc15f4920d,walnut oil,black walnut oil,A61,0.5
+6e6958b825af0dbf,walnut oil,cosmetic composition,A61,0.25
+58c8ab207c7da528,walnut oil,edible walnut oil,A61,0.5
+131f8c411d142147,walnut oil,emulsion,A61,0.25
+4d62aefd2b738fae,walnut oil,juglandaceae oil,A61,0.75
+15a9c9baeea6707f,walnut oil,juglans oil,A61,0.75
+7a566b8b35711544,walnut oil,juglans regia oil,A61,0.75
+6fdcf5745179e609,walnut oil,madeira walnut oil,A61,0.5
+0da92d15c1f6ec9a,walnut oil,nut oil,A61,0.5
+2099f8652128235b,walnut oil,oil,A61,0.5
+9d7d272b6d40b8c2,walnut oil,oil paint,A61,0.0
+7cc7435144e15e21,walnut oil,olive butter,A61,0.25
+8c4cb708fa845de3,walnut oil,olive oil,A61,0.25
+39261f4706ca5565,walnut oil,seed oil,A61,0.25
+cf8bb96dec09555e,walnut oil,single seeded stone fruit,A61,0.25
+04e0381df749b49a,walnut oil,skin care cream,A61,0.25
+aa34950a76e519a3,walnut oil,soybean butter,A61,0.25
+9ee04512411e2593,walnut oil,soybean oil,A61,0.25
+9a796f080b4ad2a6,walnut oil,strong wall,A61,0.0
+795be2054cb255cd,walnut oil,wall of china,A61,0.0
+81668cee87c99d48,walnut oil,wall of fire,A61,0.0
+e5413c0a341e06c9,walnut oil,walnut,A61,0.5
+b42362c1cabb102d,walnut oil,walnut color,A61,0.0
+7069f7ab6140e102,walnut oil,walnut shell,A61,0.5
+e6aba708ae9204ce,walnut oil,walnut shells,A61,0.5
+c43de554150218ce,walnut oil,water,A61,0.0
+e9fd1560240c3315,walnut oil,water oil,A61,0.0
+069a31b31abb8865,walnut oil,wood,A61,0.0
+ed394ba677c671db,walnut oil,black walnut,C08,0.5
+e40e14420dcbe40b,walnut oil,carpathian walnut oil,C08,0.5
+b6e8c9bf557b5038,walnut oil,castor oil,C08,0.5
+91091570c01f958e,walnut oil,composition,C08,0.25
+6ae09d2760d8e739,walnut oil,compositions,C08,0.25
+206d3ca4691ae7bb,walnut oil,compositions composition,C08,0.25
+9312f01069a355bc,walnut oil,dry fruit oil,C08,0.5
+51d2ff4ea2ad5a25,walnut oil,epithelial cell,C08,0.0
+ba66727e65b4ae1d,walnut oil,essential oil,C08,0.25
+9c9de4c2bda49b85,walnut oil,fatty acids,C08,0.25
+f92d398f9100ab09,walnut oil,grape seed oil,C08,0.25
+20d84bef2e39baa5,walnut oil,hemp seed oil,C08,0.25
+62a54d8d9b1b90c0,walnut oil,juglans regia fruit oil,C08,0.75
+b8b76486b01bcf47,walnut oil,juglans regia oil,C08,0.75
+8de060a7ac762bd9,walnut oil,linoleic acid,C08,0.25
+94a1c20b1d69b4b7,walnut oil,madeira walnut oil,C08,0.5
+336ee843359b8e80,walnut oil,nut essence,C08,0.0
+04214e95d52d7654,walnut oil,nut oil,C08,0.5
+115bc1ac711486d7,walnut oil,nut salad,C08,0.0
+ffa9a220b226b356,walnut oil,oil care,C08,0.0
+400f003c6e5412ae,walnut oil,persian walnut oil,C08,0.5
+aa2874a245f15443,walnut oil,pollution mask,C08,0.0
+ec62b0a011ce95ef,walnut oil,pumpkin seed oil,C08,0.25
+4776f9dac0d9b4fe,walnut oil,wall,C08,0.0
+ff912c50d370bb79,walnut oil,walnut,C08,0.5
+08ae53e894e5ec19,walnut oil,walnut extract,C08,0.5
+e0e02c7eedd44bc3,walnut oil,walnut shell,C08,0.5
+0e4fcbe0c30aa106,walnut oil,walnut shells,C08,0.5
+bf8154048411822d,water infiltration,backwashing water,B01,0.25
+089c98283b85e294,water infiltration,bacteria,B01,0.25
+ac768ebb3a7033f2,water infiltration,computational method,B01,0.0
+439f8d4f2f2b62c9,water infiltration,computational technique,B01,0.0
+d9cbdc2c10fa61d3,water infiltration,continuous diffusion,B01,0.25
+f7edf689cf358993,water infiltration,filling teeth,B01,0.0
+37ba6221f05fc4d6,water infiltration,filters,B01,0.25
+e1aaac784f439386,water infiltration,fine screen,B01,0.25
+d48acd3263d37443,water infiltration,infiltration,B01,0.5
+13b441a391017130,water infiltration,infiltration problem,B01,0.5
+80c912a5ad14436c,water infiltration,infiltration problems,B01,0.5
+65f5ce1bbe97afd0,water infiltration,infrastructure,B01,0.0
+76453f99514a7c96,water infiltration,invasion,B01,0.25
+80df8e2701b35cb5,water infiltration,microporous membrane,B01,0.25
+fbeee0e59af8d285,water infiltration,moisture infiltration,B01,0.75
+ffd447f3d2b21258,water infiltration,potable water,B01,0.5
+3cfd5690f5aef216,water infiltration,seawater infiltration,B01,0.5
+c0957a4d1324a7d7,water infiltration,virtual screening,B01,0.0
+9d5d4253a1b47a74,water infiltration,water,B01,0.5
+c4336bc0a963ca24,water infiltration,water cycle,B01,0.0
+3cf70428f35fecf7,water infiltration,water filtration,B01,0.75
+b3711cb3dada89b7,water infiltration,water penetration,B01,0.5
+4bb5a06ac9d2b0a0,water infiltration,water problem,B01,0.5
+84e364b4d6871191,water infiltration,water problems,B01,0.5
+038d34928aec440b,water infiltration,water processing,B01,0.5
+8c4271d2d1b8710c,water infiltration,water seepage,B01,0.5
+c7ca9a502700d377,water infiltration,water treatment,B01,0.75
+3ec3903c8cd3e605,water infiltration,moisture,E06,0.25
+3ff9fb8d14ec3f12,water infiltration,rain,E06,0.5
+7b3acece38fad100,water infiltration,water,E06,0.5
+92af27a6b6e7a869,water infiltration,water erosion,E06,0.5
+d9ffbe5f2945829a,water infiltration,water penetration,E06,0.5
+809a438934774faf,water infiltration,weather,E06,0.25
+12178238f3e9acc6,water infiltration,air purifier,H01,0.0
+04de32a8f4426c67,water infiltration,cavitation,H01,0.25
+67b390bbf06f9e8a,water infiltration,damage,H01,0.25
+8e426610c4ee52f9,water infiltration,delamination,H01,0.0
+94814e8ae46178a8,water infiltration,flowing water,H01,0.25
+188814471afd7c05,water infiltration,heat,H01,0.25
+d8789ce471826e2e,water infiltration,humidity,H01,0.25
+c75635be4671b19a,water infiltration,humidity penetration,H01,0.75
+6c7249199102e529,water infiltration,hydrology,H01,0.25
+a50512d15e9ed7fc,water infiltration,infiltration,H01,0.5
+f9d737d455cfad4e,water infiltration,inhibit penetration,H01,0.25
+934cc1eadd36b28b,water infiltration,poor drainage,H01,0.25
+85f2df4b7f39a4fd,water infiltration,rain water,H01,0.25
+887fe027946376a0,water infiltration,rainwater infiltration,H01,0.5
+3507eb556b733257,water infiltration,warpage,H01,0.0
+7f5d6ff9c0847443,water infiltration,water animals,H01,0.0
+26b301e90982e9b7,water infiltration,water cycle,H01,0.0
+86443fc70dc6b4ef,water infiltration,water entry,H01,0.25
+66a3c72d9e2898a7,water infiltration,water ingress,H01,0.5
+a7bdafb6644bcee3,water infiltration,water penetration,H01,0.75
+13227c0267be7a6e,water infiltration,water pollution,H01,0.0
+a543199146a9fff9,water infiltration,water resources,H01,0.0
+eeeb553f94e1aec2,water infiltration,water seepage,H01,0.75
+84d6d193b75f2383,water infiltration,water vehicles,H01,0.0
+3165e73d7aeb893c,water intake,intake water,A01,0.75
+454a7bee654cb809,water intake,cooling,A47,0.25
+9c117e3c9beac163,water intake,filter,A47,0.25
+3f12421c4552e31f,water intake,fluid intake,A47,0.5
+87bd1cecb4cb2420,water intake,intake,A47,0.5
+34d4e70a677bc11f,water intake,water control,A47,0.5
+8b67f43ebcbca14b,water intake,water inlet,A47,0.75
+5a14b1fe3ed3377d,water intake,water pump,A47,0.5
+1802de5fad149360,water intake,water supply,A47,0.5
+d7ad0c652498739a,water intake,adjustable centre board,B63,0.25
+a3eb4aeae4cc154b,water intake,bottle opener,B63,0.25
+5c519787f37e3f1d,water intake,coconut water,B63,0.0
+e28758423305b605,water intake,cooling water intake,B63,0.5
+23b004c7b2a05076,water intake,fluid intake,B63,0.75
+4884c0637fe806b9,water intake,hot water inlet,B63,0.5
+98548627e340214e,water intake,inlet valve,B63,0.25
+e95a42dff1acdc59,water intake,intake for glowing skin,B63,0.0
+5d9f98a003b460a2,water intake,intake system,B63,0.5
+a8c15610acbcca59,water intake,intake valve,B63,0.0
+72fa91c4517b8f1f,water intake,liquid intake,B63,0.75
+caa819e21a9f1c53,water intake,swimming collar,B63,0.25
+421fbc6b63ecfb98,water intake,variable direction boat propulsion system,B63,0.25
+f8ea9e8ac8b39c55,water intake,water diet,B63,0.0
+62a6859f2093a6fb,water intake,water inlet,B63,0.75
+6a8d905d4cb99cb8,water intake,water intake,B63,1.0
+aeda875a111495f5,water intake,water outlet,B63,0.25
+be1ef83307188181,water intake,water soluble vitamins,B63,0.0
+bdf1d02aef8b6add,water intake,water vascular systems,B63,0.0
+241d60269ae08972,water intake,beer keg tap,B67,0.25
+b2a4fe1fa50a3b50,water intake,bottle opener,B67,0.25
+173c7b2c3b11e353,water intake,distilled water,B67,0.0
+3b1788bc3b7319b8,water intake,fluid intake,B67,0.75
+caa2792cc85601c4,water intake,fountain machine,B67,0.25
+389229c9f42b753c,water intake,hot water inlet,B67,0.5
+4faa3294a8cd3d82,water intake,inlet valve,B67,0.25
+29fc895db70b9403,water intake,intake tracker app,B67,0.0
+774d92abb1471722,water intake,intake valve,B67,0.0
+28a2ae506c96098a,water intake,intake water,B67,1.0
+7dcf0ab9059f3edc,water intake,liquid intake,B67,0.75
+b13bc159abb10c59,water intake,nutrients intake,B67,0.0
+2ef3d48e7ae78def,water intake,sealed system,B67,0.25
+ca3bd7c2c404bc45,water intake,water borne diseases,B67,0.0
+cffef362aedb0084,water intake,water inlet,B67,0.75
+3808451d4b75c073,water intake,water intake,B67,1.0
+860c2ccfd35effca,water intake,water intake pump,B67,0.5
+6c0f48850ed251dd,water intake,water outlet,B67,0.25
+982616a06ba52bfd,water intake,water system,B67,0.5
+c8b8afb43ff5ac4a,water intake,water vascular systems,B67,0.0
+df56e338ed767cf9,water intake,cooling water intake,F03,0.75
+8390f050db7da79b,water intake,lake,F03,0.25
+67bd0bc126c3d20b,water intake,ocean,F03,0.25
+d9c4f9a3bc763142,water intake,water intake port,F16,0.5
+d403417327c95a7b,water intake,water intake port,F22,0.75
+d20e6321d1253bc9,water intake,chamber,F24,0.25
+b0f2aedf4ff9c2a4,water intake,cold water intake,F24,0.5
+6423641fb6a6193a,water intake,fluid inlet,F24,0.5
+e5ba39431524948c,water intake,fluid intake,F24,0.5
+a264e40fa18947a4,water intake,inlet,F24,0.25
+3a20b2332fe8e987,water intake,pump,F24,0.25
+6fa5c3c94401a7d4,water intake,water inlet,F24,0.75
+6ab3dad853b7e56e,water intake,water port,F24,0.5
+1c2fd26a197ed69f,water intake,water pump,F24,0.5
+f67c50dc1c3efde0,water intake,water supply,F24,0.5
+c935e6353c9ec20e,water intake,water supply inlet,F24,0.75
+a82ba3ade5b54cab,water intake,water supply port,F24,0.5
+6386ee058b646018,water intake,watering,F24,0.5
+b0bed930b9f3e7b9,water intake,cold water intake,G01,0.5
+67aecfda5586d197,water intake,entire optical,G01,0.0
+0630a6a13a955fde,water intake,filter,G01,0.0
+7b7db403bd2c8ec7,water intake,filter optical,G01,0.0
+230a731070727cf6,water intake,inlet,G01,0.5
+185677c048978717,water intake,introducing port,G01,0.5
+8c3b9f0829bf3e14,water intake,introducing portion,G01,0.5
+6cdd2905283fb780,water intake,introduction port,G01,0.5
+01f1eabcec099491,water intake,introduction portion,G01,0.5
+22bc936ed9f1346a,water intake,liquid introduction port,G01,0.5
+831bb9a7c734c5f0,water intake,liquid introduction portion,G01,0.5
+af7ae0ee5dedf246,water intake,optical,G01,0.0
+3759fd6b7b431cac,water intake,optical measuring,G01,0.0
+cf0d0311efef4d81,water intake,port,G01,0.25
+a9674e86d6296776,water intake,water,G01,0.5
+c25b5f37c1090e59,water intake,water introducing port,G01,0.5
+a3ab61d0c164e26a,water intake,water introducing portion,G01,0.5
+ca958ea20806746a,water intake,water introduction port,G01,0.5
+e0e3ae44f1548625,water intake,water introduction portion,G01,0.5
+7dc0dace1b2c996f,water product,drink,B65,0.25
+d747d437141b89b4,water product,gas,B65,0.25
+18233fb15645a041,water product,phase,B65,0.25
+c69d9704a387bedf,water product,phase solid,B65,0.25
+d630f8932d241c6b,water product,product solid,B65,0.25
+884c4475d5c6f6b6,water product,product water removal,B65,0.5
+798e97107cc4703c,water product,solid,B65,0.25
+a1631e5cb657bfa1,water product,water,B65,0.5
+5e786b4954d50afd,water product,cosmetic product,C10,0.0
+92d81b7b7189d5f9,water product,distilled water,C10,0.5
+828d2ce55bda95df,water product,drinking water,C10,0.25
+9124ef5a9ace504f,water product,food product,C10,0.0
+e62373461420b8e8,water product,gel product,C10,0.0
+54f72c05d5ebfbc7,water product,h2o product,C10,0.5
+160028418bd3d81d,water product,hydration,C10,0.25
+ad8dfd8656ff2a34,water product,mineral water,C10,0.5
+f2634be7c625b37e,water product,oil product,C10,0.0
+9e95cfde56f682d9,water product,solid product,C10,0.0
+35ba9055e2bb1b96,water product,sparkling water,C10,0.5
+e29a5d4ab6638682,water product,spring water,C10,0.5
+0eb1a7d89d9fdd23,water product,waste product,C10,0.0
+8a4833bb9b372168,water product,water pouch,C10,0.5
+cf5239e06317539b,water product,water quality,C10,0.25
+4c2e4b6911f61f30,water product,water soluble condensation product,C10,0.5
+398632a1f849fed7,water product,product water removal,C25,0.25
+995763b1db48cd14,water product,water insoluble product,C25,0.25
+2f3bd93cbb4b49ba,water product,water soluble condensation product,C25,0.5
+4040905d75e1614c,water product,boundary,F04,0.25
+31560a9a44b8c43a,water product,product water,F04,0.5
+be5f876a799e22d5,water product,water insoluble product,F04,0.5
+7dab2aeae08c8939,water product,ammonia vapor stream,H01,0.25
+7f8e0a5c109f1cd1,water product,dihydrogen monoxide,H01,0.5
+6126841047b8943f,water product,osmosis concentrate,H01,0.25
+3918f3e9fffea6cc,water product,product key,H01,0.0
+5cdba58f6003ad39,water product,product review,H01,0.0
+6e03ed173f1c978f,water product,product table,H01,0.0
+42f3dd464fb5368e,water product,product vision,H01,0.0
+e56cfccefca0333a,water product,product water,H01,1.0
+52cdbd511b020962,water product,pure water stream,H01,0.5
+2acae5110efbf077,water product,purification operation,H01,0.25
+0766abd3f9b33be6,water product,recycling,H01,0.25
+016407325c3c38a5,water product,reverse osmosis process,H01,0.25
+1207da62a4695988,water product,ro concentrate,H01,0.25
+805b7a6ebd5ca99e,water product,salt containing water,H01,0.5
+9d585dccd63d9473,water product,waste product,H01,0.0
+c1cc04ca11478a56,water product,water park,H01,0.0
+f16a13d04ac83c7d,water propeller,auxiliary propeller,B01,0.75
+800fb53a42d58470,water propeller,jet,B01,0.25
+adb0917dd089003b,water propeller,motion,B01,0.25
+a34e96c8ce8af736,water propeller,paddle,B01,0.5
+804d53837b04fa44,water propeller,paddle popper,B01,0.0
+d115e04f7b00a96c,water propeller,paddle shifter,B01,0.0
+32bc6e934a98bf93,water propeller,perfume,B01,0.0
+e43a2eab305d0ec1,water propeller,propeller,B01,0.5
+df27b7395ccb7cfc,water propeller,propeller engine,B01,0.75
+d24473550417d770,water propeller,propulsion fan,B01,0.25
+67d08d29df2477bc,water propeller,radiating blades,B01,0.5
+917d0c73c00ed0f2,water propeller,repulsion,B01,0.0
+fcfb3d1113964aa3,water propeller,revolving blades,B01,0.5
+aeed4f065547f2d1,water propeller,rotor,B01,0.5
+f758ebbf93de7506,water propeller,screw propellers,B01,0.5
+1b886bebfa9511ff,water propeller,shaft,B01,0.25
+26f30f3220f5ca05,water propeller,underwater propeller,B01,0.75
+eb3cebbc9244c9e5,water propeller,water bike,B01,0.25
+51b3fb6d44209fdd,water propeller,water propellers,B01,1.0
+e9d7b870b179d84a,water propeller,water retention,B01,0.0
+e9982ffa989d6ba0,water propeller,water rudder,B01,0.25
+1f2e9b388de23d01,water propeller,water tax,B01,0.0
+038df92d6b263cf8,water propeller,center propeller,B63,0.5
+748e3e6401127fc0,water propeller,engine,B63,0.25
+e972fd33912aab1d,water propeller,hills,B63,0.0
+2c48761d084ff048,water propeller,pedaling,B63,0.25
+ff0bf0982bc222bd,water propeller,propeller,B63,0.5
+3a68d727268329d6,water propeller,attitude determination system,B64,0.25
+e79da63604434e00,water propeller,blade,B64,0.25
+41f69ca129d0beeb,water propeller,dam water,B64,0.0
+d903fa3fca77f7c2,water propeller,dual speed water propeller,B64,0.5
+7db1885cd365d333,water propeller,flaps,B64,0.25
+b9571be417031a65,water propeller,hub,B64,0.25
+0fa3b442f88a38b1,water propeller,immersed propellers,B64,0.5
+4f49df2e1a213321,water propeller,liquid propeller,B64,0.75
+847488394bf8e61c,water propeller,propeller,B64,0.5
+0c401f595b7aa529,water propeller,propeller digital therapeutics,B64,0.0
+fc2b99cb981429bf,water propeller,propeller shaft,B64,0.5
+3cd6c5a9aacb68d7,water propeller,propeller system,B64,0.5
+a8987e70f9210811,water propeller,pump,B64,0.25
+67f0d6108312cfe3,water propeller,rotor hub vibration attenuator,B64,0.25
+d755474e5cfb8896,water propeller,tail boom,B64,0.25
+910b74fc68869159,water propeller,triangular array of rotors,B64,0.25
+b2bae13d2c75c08f,water propeller,water erosion,B64,0.0
+cf32b2e80461cf71,water propeller,water eye drops,B64,0.0
+cdfc22a465f06a0c,water propeller,water fixed pitch propeller,B64,0.5
+c1e29d45c04916e1,water propeller,water geyser,B64,0.0
+7c5d945f8cfa794f,water propeller,water propeller,B64,1.0
+693f8760f0135cf1,water propeller,water soluble eye,B64,0.0
+55f00a7083222b19,water propeller,waterjet propulsion,B64,0.75
+cddd9aa14f22e585,water propeller,wheels,B64,0.25
+ae4c93e8c850d989,water propulsion device,charging device,B63,0.0
+738c45b7160a421e,water propulsion device,drive propeller,B63,0.5
+8983605b3d97ee43,water propulsion device,drive system,B63,0.25
+2860e45295ac408e,water propulsion device,drive transmission,B63,0.25
+b0638e40998e2152,water propulsion device,drive wheel,B63,0.25
+12cd7b9d7d4eb5cc,water propulsion device,duct lip,B63,0.25
+d6c4e6f53adca105,water propulsion device,eye water drop,B63,0.0
+3f4178764294ecc8,water propulsion device,fluid propulsion device,B63,0.75
+40708601ba60ee4e,water propulsion device,front transmission,B63,0.25
+4bdbe5d65bece6f6,water propulsion device,front wheel transmission,B63,0.25
+37b92271c9c0e0b4,water propulsion device,front wheel unit,B63,0.25
+37d4f1c0f81aa6a8,water propulsion device,hybrid air cushion ground effect vehicle,B63,0.25
+534e1f6b69c7d53a,water propulsion device,inboard motor type,B63,0.25
+e5e024eed8bb9806,water propulsion device,jet propulsion device,B63,0.5
+7b400e5c2b45d15c,water propulsion device,life jacket,B63,0.25
+ad243ef24a1e3521,water propulsion device,magnus propeller,B63,0.25
+3a9f841f88597b32,water propulsion device,marine propulsion device,B63,0.75
+64e8ebf9d785dbc1,water propulsion device,propeller propulsion,B63,0.5
+d51216aff71dc6dd,water propulsion device,propeller propulsion propeller,B63,0.5
+c60a800a99f61530,water propulsion device,propeller propulsion wheels,B63,0.5
+d4e864bf085fee7c,water propulsion device,propulsion,B63,0.5
+05e5013806b4abbc,water propulsion device,propulsion apparatus,B63,0.5
+33fdb11a4c3cee94,water propulsion device,propulsion device,B63,0.5
+ce2d4b93e47b99e2,water propulsion device,propulsion in maglev train,B63,0.0
+28a3028e03816bd6,water propulsion device,propulsion propeller,B63,0.5
+4c062fec4cfbb2f9,water propulsion device,propulsion system,B63,0.5
+ffb6e883de7d9d67,water propulsion device,propulsion unit,B63,0.5
+0653c5f0b6428072,water propulsion device,propulsion wheel,B63,0.5
+89b976d65257c4a2,water propulsion device,rear wheel transmission,B63,0.25
+51ff5749709150f3,water propulsion device,underwater propulsion device,B63,0.75
+d9ceadcfb58ef5a7,water propulsion device,vehicle fuel tank position,B63,0.25
+313f20b134ee5400,water propulsion device,water geyser,B63,0.0
+be77dbd9010bea11,water propulsion device,water jet propulsion,B63,0.75
+06737de795e36dd2,water propulsion device,water jet propulsion apparatus,B63,0.75
+cce5e83f73b373a4,water propulsion device,water jet propulsion device,B63,0.75
+8f216cd2fbdcc2f6,water propulsion device,water jet propulsion system,B63,0.75
+13387e74a7e68d94,water propulsion device,water jet propulsion unit,B63,0.75
+010407a7e9f2a831,water propulsion device,water propulsion,B63,0.5
+0f7f16ac8d4e6889,water propulsion device,water propulsion device,B63,1.0
+07829c203f233ae3,water propulsion device,water propulsion system,B63,0.75
+62bac9383cfe0ea0,water propulsion device,water rich fruits,B63,0.0
+b1487c4a602b69fe,water propulsion device,water rich vegetables,B63,0.0
+d0ae3fa918905543,water propulsion device,boat propeller device,F01,0.5
+ef4fdfb60c35b951,water propulsion device,boat propulsion,F01,0.5
+237fd088c2ef3cf7,water propulsion device,boat propulsion device,F01,0.5
+1060599ee77f4985,water propulsion device,counter rotating propellers,F01,0.5
+43767d59525955b8,water propulsion device,decoupling clutch,F01,0.25
+97946270eeebea22,water propulsion device,device manager,F01,0.0
+2c1cc3c86f59a09c,water propulsion device,driving auxiliary devices,F01,0.25
+e8f6e6de88323d78,water propulsion device,engine power value,F01,0.25
+e64bbdfa768affed,water propulsion device,jet propulsion arrangement,F01,0.75
+40e23b3a005240cd,water propulsion device,jet propulsion device,F01,0.5
+5e69ba1f09a05432,water propulsion device,lift fan assembly,F01,0.25
+ba6c58cb6f604808,water propulsion device,main body,F01,0.25
+01ba7afa89b8171a,water propulsion device,marine propulsion device,F01,0.5
+ae2385c70b8438f5,water propulsion device,motor body,F01,0.25
+1f31a114482951bb,water propulsion device,outboard drive,F01,0.25
+a73442c89300fdd2,water propulsion device,outboard propeller,F01,0.5
+e96bb7315dc5b3f9,water propulsion device,power pump,F01,0.25
+a346e3749c8bafd1,water propulsion device,propeller,F01,0.25
+6c7d19c623b39595,water propulsion device,propulsion,F01,0.5
+dec53ef8661bc84e,water propulsion device,propulsion device,F01,0.5
+519ebe1bf7da6d6b,water propulsion device,propulsion propeller device,F01,0.5
+33755e7eebb5ea46,water propulsion device,propulsion pump,F01,0.5
+7a91bf634c221ac0,water propulsion device,small marine craft,F01,0.5
+27d44951d553d1b5,water propulsion device,vessel propeller,F01,0.5
+4db44dc6f25c8a23,water propulsion device,water animals,F01,0.0
+3f9770970c2afe19,water propulsion device,water bottle,F01,0.0
+464de33f3ae69fe9,water propulsion device,water conservation day,F01,0.0
+08f0f9f7f1cbc1a7,water propulsion device,water cycle,F01,0.0
+6756b4e7d7dd9166,water propulsion device,water jet propulsion,F01,0.5
+b3967043c9b62ca3,water propulsion device,water jet propulsion system,F01,0.5
+fb20ee338acf8ca1,water propulsion device,water jet propulsion unit,F01,0.5
+09bf83f4bf8567ac,water propulsion device,water propeller,F01,0.5
+172b1bec955bb7a7,water propulsion device,water propeller device,F01,0.5
+a8226c335c258586,water propulsion device,water propulsion,F01,0.5
+831ebd14b9cb2ee8,water propulsion device,watering plants,F01,0.0
+f4cdb7d9cc9c7f5d,water propulsion device,waterjet propulsion system,F01,0.5
+8cbe7695f7f7f817,water propulsion device,waterjet propulsion unit,F01,0.75
+138e88c1bf56d67d,wave generation,applauding crowd,A63,0.5
+d70bf98d35861c54,wave generation,cheering sounds,A63,0.25
+0e96b7af2019f26f,wave generation,communication,A63,0.5
+1d4de24ba7496a39,wave generation,corresponding wavelength,A63,0.25
+3b3ed1fb63848b8c,wave generation,electromagnetic spectrum,A63,0.25
+a2c053890efdf6e0,wave generation,electromagnetic wave generation,A63,0.5
+faabe524ecbfc11d,wave generation,food generation,A63,0.0
+b77b1665377babec,wave generation,generations of computers,A63,0.0
+59a965a203dedbae,wave generation,light waves,A63,0.0
+2c15ab67758c979f,wave generation,loud noise,A63,0.25
+2c5fc3794de9101d,wave generation,moment,A63,0.25
+a665d307e4a75574,wave generation,moment field,A63,0.25
+ea918a5225227c4b,wave generation,moments,A63,0.25
+7b2b9303c84d4361,wave generation,money generation,A63,0.0
+78b78d6a23e31c86,wave generation,radio frequency,A63,0.25
+275430a0dc820c9d,wave generation,radio waves generation,A63,0.5
+bcf1935c994b39ce,wave generation,report generation,A63,0.0
+a9a8ba8bb026da94,wave generation,sine wave generator,A63,0.0
+a69a94e7180c7099,wave generation,soft claps,A63,0.25
+38b403a5782cbdb0,wave generation,support generation,A63,0.5
+d89ab693772c43b1,wave generation,surface wave generation,A63,0.5
+1d0ae496ff979a0d,wave generation,wave,A63,0.5
+72c08d47a22493c2,wave generation,wave field,A63,0.5
+88ba3937cc19eec8,wave generation,wave hands,A63,0.5
+1c6e2801207c60a5,wave generation,wavelengths generation,A63,0.5
+8fb2064c6cb3b379,wave generation,waves generation by fans,A63,0.5
+5c7f1a75838bc5a2,wave generation,equipment,E04,0.5
+a55c0eb18e46e2e8,wave generation,loads,E04,0.25
+d2418973320fe967,wave generation,research,E04,0.0
+e6fa1c0ab427ce24,wave generation,wave,E04,0.5
+592e216be9fd552f,wave generation,wave generation circuit,E04,0.75
+0eaa002a5067d94a,wave generation,wave power generation,E04,0.5
+ed4492fe5eb74c0e,wave generation,work,E04,0.0
+a8c05c63c650e746,wave generation,airflow,F21,0.25
+ea8e90581784f610,wave generation,circular,F21,0.25
+1be229726a5d4213,wave generation,electromagnetic wave generation,F21,0.5
+3e3ec64a4c7d5164,wave generation,generation gap,F21,0.0
+afb4c11e665622e4,wave generation,pressure wave generation,F21,0.5
+436b87db6446f59f,wave generation,producing waves,F21,0.5
+392e760213640a1c,wave generation,production of waves,F21,0.5
+73a2e15b76aec985,wave generation,shaft,F21,0.25
+5ffdd6b876f56336,wave generation,shock wave generation,F21,0.5
+edcde352046ec573,wave generation,sinusoidal wave,F21,0.5
+f40e333fd3af204d,wave generation,sound,F21,0.25
+f6f4ab30e5ce3f20,wave generation,thermoacoustic wave,F21,0.5
+16e8ab45ebce7182,wave generation,turbulence,F21,0.25
+c3a8c7e417041ba2,wave generation,turbulent liquid flow,F21,0.0
+99ed8e7d08e73001,wave generation,vibrate,F21,0.0
+04cefa25fda24761,wave generation,vibrational waveform,F21,0.5
+fe07e1177e111575,wave generation,wave,F21,0.5
+26a65984f156a600,wave generation,wave hill,F21,0.0
+eb004c7f8c2eb000,wave generation,wave house,F21,0.0
+357ed015394c8e36,wave generation,wind,F21,0.25
+c1cc2116621d17e5,wave generation,wind chime,F21,0.0
+200daa1da3305fd0,wave generation,activation,F42,0.25
+0c351243035a2c57,wave generation,electromagnetic wave generation,F42,0.5
+df80d38b2ae2ba3a,wave generation,energy activation,F42,0.5
+fb2142cd8f627770,wave generation,energy initiating,F42,0.5
+2c44c1233ccfd2f5,wave generation,initiating,F42,0.25
+bc592e07906d9826,wave generation,prevention,F42,0.0
+1e545928c4da9d33,wave generation,protection,F42,0.0
+b74d64ea31ca52fa,wave generation,pyrotechnic initiating,F42,0.25
+11ea66fe4cd76dc7,wave generation,relief,F42,0.0
+49ebd0717a11c054,wave generation,wave power generation,F42,0.75
+c6220aacf7db1688,wave generation,wave generation circuit,H01,0.5
+9beb50936d4b4765,wave generation,amplitude control,H03,0.25
+08a3d5123a3b8d4a,wave generation,amplitude generation,H03,0.25
+beef1972727d5762,wave generation,control,H03,0.25
+ffb86c82a24b1574,wave generation,generation,H03,0.5
+276e305237dd0153,wave generation,point emitting,H03,0.25
+5a5f7071c7b07559,wave generation,signal control,H03,0.25
+4e8ebda04676c279,wave generation,signal generating,H03,0.75
+289306871fedad7f,wave generation,signal generation,H03,0.75
+cb7880ed71d973b2,wave generation,wave,H03,0.5
+d14bd73e9a077c0c,wave generation,wave amplitude control,H03,0.5
+d58493370f8be4f8,wave generation,wave amplitude generation,H03,0.5
+44eab4bc6d1c5701,wave generation,wave control,H03,0.5
+42fb86ec8ee8db3b,wave generation,wave emitting,H03,0.5
+e087e7aa337def7c,wave generation,wave generating,H03,1.0
+e20024ef7929e86b,wave generation,wave light,H03,0.5
+0bd3c5740eaf09f5,wave generation,wave point emitting,H03,0.5
+39d7e4d542f8cc1a,wave generation,wave point light,H03,0.25
+096ec1dd693ca287,wave generation,wave signal control,H03,0.5
+10e125cf93b530c8,wave generation,wave signal generating,H03,0.75
+3e92b5f53c4349dd,wave generation,wave signal generation,H03,0.75
+489e2f8c491956dc,wave generation,waveform generating,H03,1.0
+b6f1df7e498fbd4e,wave generation,waveform generation,H03,1.0
+b9eb7c565e0068f1,wave generation,waves,H03,0.5
+49bc17d11b269fef,wave generation,waves emitting,H03,0.5
+bd5dbad4c35324cf,wave generation,waves generating,H03,1.0
+243c6cf247992930,wave generation,waves generation,H03,1.0
+b08f984ff220bf50,wearability,abrasive wear,A61,0.5
+41810b5947bc3f06,wearability,absorbent polymer,A61,0.25
+374fea9a7f93a143,wearability,adhesive wear,A61,0.5
+01310104a532fc87,wearability,biofeedback to the wearer,A61,0.0
+4662d6282d7cf86c,wearability,container body,A61,0.25
+6d7c5e3a60364fbd,wearability,deformation of a surface,A61,0.25
+3b6845992e6bece3,wearability,dental treatment,A61,0.25
+feefa56e192327c6,wearability,durability,A61,0.25
+5bfa3c878588b26a,wearability,elastomer,A61,0.5
+c694d5ae728820c3,wearability,elastomeric article,A61,0.5
+722e5204a52eb859,wearability,fatigue and creep,A61,0.25
+0a7cbcb2547ea7dc,wearability,fretting wear,A61,0.5
+6b6d2a88bc57c100,wearability,gradual removal of material,A61,0.25
+aac043cdc1a809f6,wearability,identical wearability,A61,0.5
+8ff9f39437587e62,wearability,lasting,A61,0.25
+19e2b6486219f4cc,wearability,smartwear by a user,A61,0.0
+06eb4e587616d38c,wearability,stability,A61,0.25
+84c10bb83b615b25,wearability,surface fatigue,A61,0.5
+8318b5d2947c2a95,wearability,term,A61,0.0
+4f0b88deaa76c965,wearability,wear cloth,A61,0.0
+0439951933dc142b,wearability,wear mask,A61,0.0
+a1aa1ac70b5dcd04,wearability,wear resistance,A61,0.0
+a9d03584ab47bb1f,wearability,wearable,A61,0.5
+d084af18a88a02fd,wearability,wearable technology,A61,0.0
+db9d4a3353a17380,wearability,ability of an article to withstand prolonged wear,B21,0.75
+44553be73c5d8f51,wearability,ability to withstand wear,B21,0.75
+1e81591998811a20,wearability,abrasion,B21,0.75
+8bb1e03e8d5d0a13,wearability,anti wear,B21,0.25
+263db136549e176a,wearability,descaling device,B21,0.25
+0740b70fc1dea034,wearability,destructibility,B21,0.0
+046720ca3cf98a9d,wearability,ductility,B21,0.25
+7a19f7d83791a31b,wearability,durability,B21,0.75
+a106e44ca373e40f,wearability,durability codes for muscle legends,B21,0.0
+eecd1d4adb518de9,wearability,durability in acid properties,B21,0.0
+221dd0120e9be434,wearability,durability ionic compound,B21,0.0
+023df1862bb36069,wearability,durability of article,B21,0.75
+248276da95cb3ce9,wearability,dynamic resistance,B21,0.0
+7db66fac6f126603,wearability,fatigue life,B21,0.25
+e8d13dcf12af8ff5,wearability,fatigue resistance,B21,0.25
+1faa764987f86abb,wearability,frictional loss,B21,0.25
+2cc0f8d0376093c5,wearability,hardness,B21,0.25
+690d8307ff564a51,wearability,hot rolling of a metal strip,B21,0.25
+4dad5d8ab19a2d22,wearability,loop lifter,B21,0.25
+7e9615f8aab0273d,wearability,material property,B21,0.5
+8527077e4116f89d,wearability,strength,B21,0.25
+c8656004664bf5f2,wearability,toughness,B21,0.25
+bac3feec26433ca9,wearability,wear and tear,B21,0.75
+f7fa7c8605c40a78,wearability,wear characteristics,B21,0.5
+c8757b8201719536,wearability,wear life,B21,0.75
+c2aeb2bacfb272b1,wearability,wearability,B21,1.0
+217271e252282202,wearability,wearable gadgets,B21,0.0
+e9492b2f6cbafdef,web transfer,curved bars,B29,0.25
+27e3e52f0e9b05e2,web transfer,curvilinear valve pin,B29,0.25
+b59bd7e0387347da,web transfer,passport booklets,B29,0.25
+cb90773db210bf1c,web transfer,roller means,B29,0.25
+2d77d674898127f4,web transfer,spider web,B29,0.0
+70fbc3e0f5215039,web transfer,thermoplastic material,B29,0.25
+472e6803f2210358,web transfer,transfer,B29,0.5
+87483f8c87560855,web transfer,transfer certificate,B29,0.0
+9ae0b84d96d0bca2,web transfer,transfer paper web,B29,0.5
+35fe0b2d74468e8d,web transfer,transfer support web,B29,0.75
+bcf7c4dced33b635,web transfer,transfer to web,B29,0.25
+f6574b72002cf85e,web transfer,transferring web,B29,0.75
+eca68e35e55df6c8,web transfer,transverse stretcher blades,B29,0.25
+e01b1fc7558046a4,web transfer,web connection,B29,0.0
+e37ef50cbb089a6b,web transfer,web development,B29,0.0
+371d827b87bbd340,web transfer,web guide,B29,0.5
+eb5513d812da8623,web transfer,web is transferred,B29,0.75
+e1c9fe53fba607f7,web transfer,web programming,B29,0.0
+7e6bd584d077dac2,web transfer,web series,B29,0.0
+bd915e2e035036f4,web transfer,web shifting,B29,0.75
+ddebe2f121ad569a,web transfer,web system,B29,0.5
+9eb48cc33e644b86,web transfer,web transfer,B29,1.0
+7864bdf26db0ea6a,web transfer,web transfer device,B29,0.5
+dd9058d9f00c4101,web transfer,web transfering,B29,1.0
+de69548ad79caccc,web transfer,transfer from web,B31,0.75
+6620317413e6e03f,web transfer,transfer to web,B31,0.25
+96946de83b530746,web transfer,transfer web,B31,0.75
+e7857c9f210d9537,web transfer,head,B41,0.25
+6e801f078ed7309f,web transfer,transfer paper web,B41,0.5
+6bd198f812fdb8c1,web transfer,transfer web,B41,0.75
+ab60d38490cad1b5,web transfer,web,B41,0.5
+918ebf1f71da2227,web transfer,arranged into web,D21,0.5
+22f17344f55b6155,web transfer,circuit,D21,0.0
+ca7ec7a0bd70e824,web transfer,drained water,D21,0.25
+e57ed4947b3a14f8,web transfer,information transfer,D21,0.0
+406c3687265dadb7,web transfer,loop path,D21,0.25
+f0773135b6efc4b5,web transfer,path,D21,0.25
+8448d62273d670e2,web transfer,pulp,D21,0.25
+5216bc15e2ee26ab,web transfer,pulp mixture,D21,0.25
+99f97f54f8a66dc0,web transfer,state,D21,0.0
+79310fca8f996c61,web transfer,support system,D21,0.25
+f8c5ecbd10386c45,web transfer,tail threading,D21,0.5
+281f88f7664fccef,web transfer,transfer,D21,0.25
+6127d7ffad90c0fa,web transfer,transfer forcep,D21,0.0
+616c3a3e069d46bf,web transfer,web designing,D21,0.0
+f184d5713591034a,web transfer,web file,D21,0.0
+d0feaa33b8209cc4,web transfer,web forming,D21,0.5
+0a7754910069b347,web transfer,web of pulp fibers,D21,0.5
+644d6f5d42cfc257,web transfer,web transfer belt,D21,0.5
+c816a53e8f8d2388,web transfer,web transfer device,D21,0.5
+93b54595780e2a22,web transfer,web transfer fabric,D21,0.5
+a4438fb2d17364cf,web transfer,web transport,D21,0.75
+9c452a29b6d4e6fa,web transfer,webbing tape,D21,0.0
+64c19dcdbb55a9ba,web transfer,website,D21,0.0
+36e2406ad602aa5b,web transfer,wet paper web transfer belt,D21,0.5
+efcee395d2782236,web transfer,wood,D21,0.25
+42531b55130d5b50,wedge device,cable joiner,E01,0.25
+af4ca22f18a3046a,wedge device,control cuff,E01,0.25
+a462b53ff10b6dae,wedge device,counter gripping element,E01,0.5
+f29d0a9a55f4cfc6,wedge device,dislodge device,E01,0.25
+dee5b879cfe2d072,wedge device,fitting unit,E01,0.5
+beece1602a8b37ec,wedge device,guiding element,E01,0.25
+8d2f6d27658a3347,wedge device,hand holding,E01,0.0
+680ccf02bc5bb27f,wedge device,mechanical connector,E01,0.25
+4fcccc3ed9b5cd33,wedge device,metal device,E01,0.5
+ab070059a23ba08d,wedge device,spacer,E01,0.5
+4ae878c2856d48a3,wedge device,spring,E01,0.5
+4e7c424597b6e801,wedge device,unit test,E01,0.0
+50ad484e0027988d,wedge device,wedge,E01,0.5
+0537f74b38b78add,wedge device,wedge arrangement,E01,0.5
+17603083eb2f1408,wedge device,wedge components,E01,0.5
+7489a36a82ae6c63,wedge device,wedge devices,E01,0.5
+e9f7c0da9ea6aa24,wedge device,wedge flip flops,E01,0.0
+12f2e071505bd795,wedge device,wedge gear,E01,0.5
+f88cd308998d3b2e,wedge device,wedge heels,E01,0.0
+18b189d6b0eb18a7,wedge device,wedge pillow,E01,0.0
+5f08540cd87f8774,wedge device,wedge sneakers,E01,0.0
+c4968d2064bf12a3,wedge device,wedging wedge,E01,0.5
+fed04c9f670e8161,wedge device,assembly,F16,0.25
+6d78c7e6bf5d7498,wedge device,attachment device,F16,0.5
+4a1e98902f14fe18,wedge device,automatic gearbox,F16,0.25
+3c334d0318323707,wedge device,bearing bush,F16,0.25
+5046b5c492f30f94,wedge device,cable connector,F16,0.25
+8a6d6dbbb3f4d874,wedge device,clamping device,F16,0.25
+4117c095b52b0f88,wedge device,clean device,F16,0.0
+37908eb7b2f905cb,wedge device,connector unit,F16,0.5
+13f63648e250345e,wedge device,device maker,F16,0.0
+c4098a2084191011,wedge device,ecg device,F16,0.0
+b3de325dcf9a5374,wedge device,eye monitoring device,F16,0.0
+9a43d15784744f56,wedge device,fittings,F16,0.5
+a76caed4ce684039,wedge device,forcefully attach,F16,0.5
+767c101235839a40,wedge device,human assembly,F16,0.0
+94ebb1578233379a,wedge device,joiner,F16,0.25
+11a84f089262d3d5,wedge device,joining unit,F16,0.25
+6db59edb36d9ab48,wedge device,spacer reducing wedge device,F16,0.5
+45beb9c008949994,wedge device,thrust washer,F16,0.25
+10b3e682f785daee,wedge device,wedge device,F16,1.0
+a0eb36ccdcb846d9,wedge device,wedge device inside,F16,0.5
+fe88f9019e5a14bd,wedge device,wedge eyeshadow brush,F16,0.0
+531edaa564b3174f,wedge device,wedge lifting device,F16,0.5
+8140412b5ccc1921,wedge device,device surface,G02,0.5
+a2ad250bebc85e6b,wedge device,lens,G02,0.25
+55cab63e6221860c,wedge device,output,G02,0.25
+f7dbc6da4d6ee0b3,wedge device,prism device,G02,0.5
+c3a262fa739102ab,wedge device,wedge,G02,0.5
+b69eec9062befe0e,wedge device,wedge layer,G02,0.5
+d66b4156579cdda8,wedge device,cutting device,H01,0.5
+0e38f7ddd1a9e733,wedge device,wedge,H01,0.5
+f26e8ccb6547f2f9,wedge device,wedge member,H01,0.5
+e44a5a1e14f2019c,wedge device,wedge shape device,H01,0.75
+ac3e253417fc93b7,wedge device,wedge shape devices,H01,0.75
+feff278e486a4e0f,wedge device,wedge shaped device,H01,0.75
+5cfa82f6ecf153c1,wedge device,wedge shaped devices,H01,0.75
+589c40ab1664968d,wedge device,wedges shape device,H01,0.75
+61589a9e85a8b7fa,wedge device,wedges shaped device,H01,0.75
+aa1506243a2afcd3,wedge device,wedges shaped devices,H01,0.75
+6312057b31c974a6,weldability,excellent weldability,B65,0.5
+1def015ebb252643,weldability,ability to be welded,C08,0.75
+f8aa59c9b3b758e5,weldability,alloys,C08,0.25
+e6c13bc6e9694825,weldability,castability,C08,0.5
+f17426183a159828,weldability,collateral properties,C08,0.0
+a5dd67d5c0747a22,weldability,colligative properties,C08,0.0
+ce1f9cc8c74679d7,weldability,fabric cotton,C08,0.0
+0d1130abb723288c,weldability,formability,C08,0.5
+c68335a05c185d5c,weldability,friction weldability,C08,0.5
+74332604ac00d5dc,weldability,good weldability,C08,0.5
+49b144ff6f815e51,weldability,high frequency welding,C08,0.5
+fb6a8aa4cb629529,weldability,housing properties,C08,0.0
+d50cbb341cb8830f,weldability,impact properties,C08,0.5
+ecfe9f87b4e3ce0e,weldability,impact resistance,C08,0.5
+65000a3a312eabf2,weldability,joinability propertiy,C08,0.75
+23273244c99d3b8f,weldability,laser weldability,C08,0.5
+59afcd0214d4c562,weldability,mechanical properties,C08,0.5
+870160868edfa8b7,weldability,mechanical resistance,C08,0.25
+577e00cf0942f49c,weldability,metals,C08,0.25
+dc30abbaacdb8207,weldability,partitioning,C08,0.25
+4f1d9f8bd28035ad,weldability,permeability,C08,0.0
+5edcb13294560541,weldability,primers,C08,0.25
+6dd505f19d5ff027,weldability,processability,C08,0.5
+24db6346fbf05dfd,weldability,properties,C08,0.25
+0fb7234a4ac9cf51,weldability,quenching,C08,0.25
+ec7204e562259981,weldability,steel sheets,C08,0.25
+d10b86f80bcc06ba,weldability,ultrasonic heating,C08,0.5
+e8702b651810c138,weldability,ultrasonic welding,C08,0.5
+20b7c59549adc6a3,weldability,ultrasound welding,C08,0.5
+ac010de8e785cb82,weldability,welding,C08,0.5
+bba8825425eb8ead,weldability,welding ability,C08,0.75
+1f99268a8b7f6c38,weldability,wetting,C08,0.0
+2550d6ff94555bc6,weldability,composition,C22,0.25
+36ec5068672a04c3,weldability,fatigue properties,C22,0.25
+d4edf86d1f5c891c,weldability,fatigue resistance,C22,0.25
+83e2143bb1d7a3d7,weldability,hardness,C22,0.25
+3cee6844284078b1,weldability,properties,C22,0.5
+e6982dde23f02c2e,weldability,spot weldability,C22,0.5
+c5c5bd71cbe10791,weldability,strength,C22,0.25
+49043f58bbce2bae,weldability,toughness,C22,0.25
+268a144d0b8e33b3,weldability,wear properties,C22,0.25
+b23675bb6a243240,weldability,wear resistance,C22,0.5
+41cec7225e118742,weldability,acid,C23,0.25
+1210a72bf67b0899,weldability,corrosion,C23,0.25
+266ea227419ff876,weldability,interest,C23,0.0
+6447b20ff2a99679,weldability,melting,C23,0.25
+d8d68055143994f1,weldability,appearance,C25,0.25
+36d295955b082b41,weldability,excellent weldability,C25,0.5
+85ed182af14ad9ee,weldability,heat resistance,C25,0.25
+9d2ab9956149a3bf,weldability,improve weldability,C25,0.5
+e48c86a156da2508,weldability,properties,C25,0.25
+21cef9840d157440,weldability,property,C25,0.25
+120bbf15d64ed336,weldability,spot weldability,C25,0.5
+002778447eab0a5e,weldability,wear resistance,C25,0.25
+8323cc537577bb2e,weldability,workability,C25,0.25
+235778a0812d7024,weldability,anti freezing control,G01,0.25
+8f8eef761d5af1d2,weldability,attach two iron plates,G01,0.5
+eb7f9ed254e33b4c,weldability,bad corrosion,G01,0.0
+87abbe938ac04224,weldability,bad weldability,G01,0.5
+2462f81d5efa46d6,weldability,bonding,G01,0.25
+98ec64a8a975fb77,weldability,common material welding,G01,0.5
+1ea1c28114ad41c1,weldability,detecting cracks,G01,0.5
+28a8eb87b19808a0,weldability,feeder weld area,G01,0.5
+4014001ab5df76ea,weldability,freezing point depressant,G01,0.25
+1ab70adaa503fa7e,weldability,good bad,G01,0.0
+653a669305ae00a2,weldability,good weldability,G01,0.75
+3f1d12303c388df5,weldability,high temperature sagging resistance,G01,0.5
+2fff00070d5f5bbe,weldability,pipe weld inspection,G01,0.5
+b9a5a4bb6156616e,weldability,plate separation,G01,0.0
+5e39777049c45ab7,weldability,seal,G01,0.25
+ffa36776977bf958,weldability,separate,G01,0.25
+bf157ceff129705e,weldability,surface insulation coating,G01,0.5
+dd1fd62b8fdffa0a,weldability,tack weld plastic,G01,0.0
+ac3fe74ce67d7894,weldability,vapor liquid separation,G01,0.25
+ce747906b6428a8a,weldability,welding flux,G01,0.0
+ca4dcc5176cecd21,weldability,welding shop,G01,0.0
+d1d8595810c29311,weldability,improve weldability,H01,0.5
+c6638c508df3adcc,well pump,oil well pump,B24,0.5
+c3f709dc77f66f3d,well pump,submersible well pump,D01,0.5
+860ca456dc151807,well pump,centrifugal compressor,E03,0.25
+ef65f67b0025082b,well pump,centrifugal pump,E03,0.5
+f530a85cdd753109,well pump,compressor,E03,0.25
+40e46d33942a604d,well pump,compressor pump,E03,0.5
+53ee605e444b98b1,well pump,diaphragm,E03,0.25
+52d76c6713dd54fb,well pump,diaphragm pump,E03,0.5
+7df6546b257eeaa0,well pump,gear motor,E03,0.5
+df1f510632560107,well pump,gear pump,E03,0.5
+b101c57f30123df3,well pump,hydraulic compressor,E03,0.25
+a24808c13d2d9ea9,well pump,hydraulic pump,E03,0.5
+e8968fb972a9e8e4,well pump,piston,E03,0.25
+572e6644cf561756,well pump,piston motor,E03,0.5
+65ebc8279260c5cd,well pump,piston pump,E03,0.5
+cdfcc8fc3826dcd9,well pump,pump,E03,0.5
+c25a5d13472af536,well pump,pumping,E03,0.5
+d20776ba77e2f675,well pump,syringe,E03,0.25
+1392dcb8b4ff18fd,well pump,syringe pump,E03,0.5
+a9439d2ffac58490,well pump,well pumping,E03,1.0
+5ab960da09d932f9,well pump,wellhead,E03,0.5
+024459662ebf490d,well pump,aeroplane jet,E21,0.0
+0268cc133b3d898a,well pump,centrifugal force,E21,0.0
+3f9fe930dad96204,well pump,centrifugal pump,E21,0.5
+36eacef32c7e34e0,well pump,collects water,E21,0.25
+610ccd686dae21d6,well pump,compressor,E21,0.5
+795782d15ba2076e,well pump,cutter assembly,E21,0.25
+99d23017632615a1,well pump,drilling,E21,0.25
+c80c2de988b6e619,well pump,electric pump,E21,0.5
+bbff0a66beacd732,well pump,electric wire,E21,0.0
+92c568928a01d400,well pump,engine,E21,0.25
+0be0620fd896cc68,well pump,fracturing with telescoping member,E21,0.25
+1a9eabdf6acafda9,well pump,hydraulic jet pump,E21,0.5
+314c9dcbdb2fa01d,well pump,learning,E21,0.0
+9505e64e1575f142,well pump,lubricant oil well pumps,E21,0.5
+6d4dd39fb78fda72,well pump,no go device,E21,0.25
+e4f41df65ff297d8,well pump,oil well pump,E21,0.5
+a3380082c92eea5c,well pump,pump from well,E21,1.0
+df2e07f45873f51f,well pump,pump system,E21,0.5
+57e3f0121d7ba4b5,well pump,reciprocal well pump,E21,0.5
+73c28f3b50bf98c0,well pump,suction,E21,0.25
+c921d059c86127b6,well pump,well,E21,0.5
+9a5ac54208be2f43,well pump,well blood flow,E21,0.0
+aba38475e4af75b9,well pump,well fluid flow pump,E21,0.5
+dce9267d1d80f918,well pump,well medical equipment,E21,0.0
+bbf5f9b29ea6da6a,well pump,well pump,E21,1.0
+426a03299f7383d9,well pump,well pumps,E21,1.0
+f15570131dba4c75,well pump,well tissue culture,E21,0.0
+3b25e66708c33500,well pump,well treating system,E21,0.5
+864fa75be2d2dbe0,well pump,wells,E21,0.5
+f369c5f21ae9c7e2,well pump,deep well pump,F03,0.75
+7195dee5268e4ca4,well pump,down hole pump,F03,0.5
+04610ad9c046d180,well pump,jack fruit,F03,0.0
+9ba75e02aae2fff2,well pump,mud flap,F03,0.0
+812ca6096396551d,well pump,mud manifold,F03,0.25
+3742f5f3b24ae3d0,well pump,mud separator,F03,0.25
+bda2d496c374b2f1,well pump,pump wprkout,F03,0.0
+c01b387e6b69365b,well pump,pumping apparatus,F03,0.25
+37000df0396872e4,well pump,pumping jack,F03,0.5
+54b9fc6071495ee4,well pump,pumpkin,F03,0.0
+8c5b913689f8ec2d,well pump,rig pump,F03,0.5
+4e000c4c0b5de595,well pump,tank,F03,0.25
+538641d4b2cd611e,well pump,time pump,F03,0.25
+d36c7608b953112d,well pump,time table,F03,0.0
+59bcae939902da85,well pump,underground pump,F03,0.5
+123e90e115cb30b7,well pump,valve,F03,0.25
+56ad78aecd5c24f7,well pump,welldone,F03,0.0
+70b1559a8fa2fbc8,well pump,deep well pump,F04,0.5
+b46f063352569fec,well pump,drilling motor,F04,0.5
+2471c72dcef661c5,well pump,drilling pump,F04,0.5
+92e5053c6db946d3,well pump,drive,F04,0.25
+16ceb6fbe02fcb9d,well pump,hydraulic mechanism,F04,0.5
+c895326e9fbf5dd1,well pump,hydraulic motor,F04,0.5
+9f56ab8099334b10,well pump,motor,F04,0.25
+46d76c6def4c6366,well pump,pneumatic mechanism,F04,0.5
+cbc513ae9089e554,well pump,pneumatic motor,F04,0.5
+a2d27ee22e86428e,well pump,pump,F04,0.5
+bff1c4afcc0cb4ff,well pump,pump from well,F04,0.75
+e8721dbee65301b7,well pump,servomotor,F04,0.5
+2c744e3d4c9ff296,well pump,well,F04,0.5
+48012024e32a4d49,well pump,well drilling pump,F04,0.5
+539d91c11caf877d,well pump,well motor,F04,0.75
+322c33cfb1449a12,well pump,well pump motor,F04,0.75
+bac023caed41dc15,well pump,well system,F04,0.5
+5ecd420c577a6d37,well pump,submersible well pump,H01,0.5
+bb249effc4853262,whose identity,color,G06,0.25
+3c568b1d54d1292e,whose identity,color marker,G06,0.0
+30a61bfa59d898d6,whose identity,customer id,G06,0.75
+3563f46e03e0b63c,whose identity,data,G06,0.25
+b141dbe54cad9d1d,whose identity,operation theater,G06,0.0
+53eda29f1440d427,whose identity,person identity,G06,0.75
+92bdde8916b7307e,whose identity,person indication,G06,0.5
+7a3b62c16f2b9d10,whose identity,person indication number,G06,0.5
+0430622f5193d6c7,whose identity,retina scan,G06,0.25
+a0d422f4fe6aaec5,whose identity,size doubled,G06,0.0
+e3242876655f0df2,whose identity,thumbs,G06,0.25
+087609e963289041,whose identity,whose,G06,0.5
+bff602faa888016d,whose identity,whose color,G06,0.5
+8541ffd8fd442da1,whose identity,whose operation,G06,0.5
+b5f28d9b3d21bffc,whose identity,whose size,G06,0.5
+488ec54fffc17cd8,whose identity,whose the operation,G06,0.5
+21eff0df4e301093,whose identity,zero identity data,G06,0.25
+2bc9ef7e0167a03f,wire grid polarization,grid wire,B29,0.5
+5d60d0e57997f6f5,wire grid polarization,light polarizing,B29,0.5
+3a09a3c5bc17d823,wire grid polarization,polarization polarizing,B29,0.5
+57dea28538854ce9,wire grid polarization,wire grid polarizer,B29,1.0
+d7b82c30bbb1ebc2,wire grid polarization,wire grid polarizers,B29,1.0
+a5dc4296479ab8e5,wire grid polarization,disc holder,G01,0.25
+ba6e731f8f609f4d,wire grid polarization,grid cable,G01,0.25
+c70977a12e4d819e,wire grid polarization,grid cable polarization,G01,0.75
+a7643c215ee32a63,wire grid polarization,grid conductor polarize,G01,0.75
+f0dd9e5ef6e3d8c8,wire grid polarization,grid of wire,G01,0.25
+49b6f33226213996,wire grid polarization,grid paper,G01,0.0
+77a792b7c03c4d57,wire grid polarization,grid polarization,G01,0.5
+cfc04433938f7581,wire grid polarization,holographic wire polarizers,G01,0.5
+f62c3dce6bfde355,wire grid polarization,live wire,G01,0.0
+470821dd621ccb26,wire grid polarization,non polarized wire grid,G01,0.25
+8b9868160198988c,wire grid polarization,path polarization,G01,0.0
+b1fa8115042593a4,wire grid polarization,polarization,G01,0.25
+053c17eb2a7ce603,wire grid polarization,top side of the stand,G01,0.25
+4346ca8ca4d70345,wire grid polarization,wire chair,G01,0.0
+a949f719dbb2cb8a,wire grid polarization,wire grid polarization beamsplitter,G01,1.0
+efe3c0ffac71d94b,wire grid polarization,wire grid polarization device,G01,1.0
+9be74197a4bf0564,wire grid polarization,wire grid polarization instrument,G01,1.0
+b8e5238ba4ba4739,wire grid polarization,wire grid polarization plate,G01,1.0
+0596482659f6dd80,wire grid polarization,wire grid polarizer,G01,1.0
+526952572e5b5d92,wire grid polarization,wire grid wall,G01,0.25
+7981648714b390e5,wire grid polarization,wire transfer,G01,0.0
+ed116fbb5cad7a31,wire grid polarization,wires grid polarization,G01,1.0
+e9a2b17581a5904c,wire grid polarization,collection event,G02,0.25
+57d17eb48a4e3f8e,wire grid polarization,conductive wiring,G02,0.5
+828f84119fc00ac2,wire grid polarization,grating polarization,G02,0.5
+f3709ee840148325,wire grid polarization,grid ceiling,G02,0.0
+04c806c48de07483,wire grid polarization,grid paper,G02,0.0
+727f34f8b3ae16f4,wire grid polarization,grid polarization,G02,0.5
+f7021541ee77c00e,wire grid polarization,grid polarizer,G02,0.5
+4c45828f556a4fb0,wire grid polarization,grid station,G02,0.0
+66860377e6258680,wire grid polarization,infrared wire grid polarizers,G02,0.5
+833987a1c326ba37,wire grid polarization,inorganic dielectric material,G02,0.5
+5d7e9a59746c2195,wire grid polarization,inorganic polarization,G02,0.5
+0ee01760fe89897b,wire grid polarization,live wire,G02,0.0
+778b07b23797c6dc,wire grid polarization,non dielectric material,G02,0.5
+e1a306fd3c2e058d,wire grid polarization,non polarized wire grid,G02,0.25
+62423c318e9a8621,wire grid polarization,optics,G02,0.25
+bdab535d5967efa6,wire grid polarization,organic polarization,G02,0.5
+9890baee36af69eb,wire grid polarization,polarization,G02,0.5
+f5293bce9a21e8c3,wire grid polarization,polarized capacitor,G02,0.0
+62fe101316963024,wire grid polarization,polymer organic polarization,G02,0.5
+349a8bd8fe9fa225,wire grid polarization,polymer polarization,G02,0.5
+8276ed0275004ef6,wire grid polarization,polymer polarizing,G02,0.5
+1f15bdaef554afe6,wire grid polarization,projection display systems,G02,0.25
+52b4d509b32f1cd9,wire grid polarization,reflect polarizer,G02,0.5
+35ed44ce61aa98a2,wire grid polarization,reflection suppression layer,G02,0.5
+f130a3c9fcc2e0b0,wire grid polarization,reflective polarizers,G02,0.75
+4e52758a608922a2,wire grid polarization,threaded union nut,G02,0.25
+5944392abe028b82,wire grid polarization,transparent organic polarization,G02,0.5
+b91d12654640bae2,wire grid polarization,transparent polarization,G02,0.5
+1a8ca914093533e8,wire grid polarization,wgp,G02,0.75
+c233e27cecf30b60,wire grid polarization,wire,G02,0.25
+9f745ee4f326ba06,wire grid polarization,wire crystal polarization,G02,0.5
+f705181a6c6e8284,wire grid polarization,wire grating polarization,G02,0.5
+3aaa9d723a2dd5e1,wire grid polarization,wire grid polarizer,G02,1.0
+fbfafbde1941af72,wire grid polarization,wire grid polarizing,G02,1.0
+ffd9bdfba2bee3b3,wire grid polarization,wire stem,G02,0.0
+d1e1bab89fd009fa,wire grid polarization,consist of wire grid,H01,0.5
+f96d5d05c15223fa,wire grid polarization,grid wire,H01,0.5
+7dd7bb19b82bf361,wire grid polarization,consist of wire grid,H04,0.25
+b448a0c5c4bef1d1,wire grid polarization,grid polarizing,H04,0.5
+c737ae677491e625,wire grid polarization,pbs polarization,H04,0.5
+d9229a2d00f31399,wire grid polarization,pbs polarizing,H04,0.5
+61350d231d52c186,wire grid polarization,polarization,H04,0.5
+59c0d33ccfb4f873,wire grid polarization,polarizing,H04,0.5
+46017862b2545572,wire grid polarization,wire grid,H04,0.25
+b4b17a1795a5ecc6,wire grid polarization,wire grid polarizers,H04,1.0
+f1e1395c3c62f2ab,wire grid polarization,wire grid polarizing,H04,1.0
+7e0773d43c66199a,wiring trough,distribution weir,F16,0.25
+9b5e49d24aac48fe,wiring trough,electrical duct,F16,0.5
+68e8d1a3e643e186,wiring trough,front wiring trough,F16,0.5
+18cc9b2d1d75739b,wiring trough,influent well,F16,0.25
+d08f548931894ffc,wiring trough,intersecting wiring trough,F16,0.5
+e688d21f36f3cf72,wiring trough,notch,F16,0.25
+ae944ccd9b88e82d,wiring trough,rear edge,F16,0.25
+9034571cdef3d0c0,wiring trough,receptacle,F16,0.25
+75411660b96c6d7c,wiring trough,self elevating steel bar,F16,0.25
+fbc608cef71a09e7,wiring trough,slot of wiring trough,F16,0.5
+b01278da349f0b5c,wiring trough,trough,F16,0.5
+bd69f03e88282aeb,wiring trough,trough wave,F16,0.0
+7f26f0402f9c146b,wiring trough,universal joint sliding sleeve,F16,0.25
+ad544ac97a4f8686,wiring trough,wind driven generator,F16,0.25
+1954e0e66bf61225,wiring trough,wire trough,F16,1.0
+f777dd225eca912c,wiring trough,wired keyboard,F16,0.0
+daac1313941fa108,wiring trough,wireless communication,F16,0.0
+2e47d53d90958f46,wiring trough,wireless computing,F16,0.0
+c4ac71be11853c18,wiring trough,wireless computing headset,F16,0.0
+9e9e19089c6f21b0,wiring trough,wireless network,F16,0.0
+ce32af1153b6bde6,wiring trough,wiring chase,F16,0.5
+74e35e8a72a04475,wiring trough,wiring gutter,F16,0.5
+7e397cd48d9f4ad5,wiring trough,wiring slots,F16,0.5
+bea3970638f848e4,wiring trough,wiring trough,F16,1.0
+19b578a41aff754c,wiring trough,wiring trough fixedly,F16,0.5
+63401d89dfbca7f7,wiring trough,wiring trough removably,F16,0.5
+913141526432f1d6,wiring trough,wiring troughs,F16,1.0
+d66b037474f7da18,wiring trough,cable compartments,H02,0.25
+4c3d253a31cc2f4e,wiring trough,cavity,H02,0.25
+d08c5afe44fd6173,wiring trough,connector housing,H02,0.5
+6318fe87588aed64,wiring trough,electrical gutter,H02,0.5
+f002ba3a5e996134,wiring trough,insulation chambers,H02,0.5
+5d1da1ccaeb23c29,wiring trough,logic board assembly,H02,0.25
+8660d3350b125408,wiring trough,mesh wire,H02,0.0
+a363fc7a5c6bff72,wiring trough,space,H02,0.25
+bb88a990a1c85cbe,wiring trough,steel trough,H02,0.0
+c73104a91bfddc31,wiring trough,switchboard box,H02,0.25
+69bfd011ba41b0e2,wiring trough,trough canal,H02,0.0
+29311858a8542514,wiring trough,trough sink,H02,0.0
+259ed309c0bd616f,wiring trough,vertical wiring troughs,H02,0.5
+209d89fbf80823b9,wiring trough,water trough,H02,0.0
+91763689326a95dc,wiring trough,wire harness trough,H02,0.75
+998a56bdc805069c,wiring trough,wire rod,H02,0.0
+e7ed0be884c8e64e,wiring trough,wire trough clamp,H02,0.5
+d4c2a8df7835ac5f,wiring trough,wiring trough structure,H02,0.75
+0cff3694e2b8abda,wood article,article,B05,0.5
+4e86561ecc425940,wood article,article generator,B05,0.0
+6ec9e51425cf3636,wood article,article spinner,B05,0.0
+06afc9b7b496b26b,wood article,combustion composition,B05,0.0
+af9487b945ca99e8,wood article,composition,B05,0.0
+2c833c0061109e85,wood article,compressed wood,B05,0.25
+0514ef2486a327a7,wood article,creosote,B05,0.25
+159a29244431ba95,wood article,creosote composition,B05,0.25
+2cd2c87d63964195,wood article,creosote material,B05,0.25
+6563824d9323f6c0,wood article,cricket bat,B05,0.25
+2b8af49c4bb2167d,wood article,heart articles,B05,0.0
+5dfeb4d1d8ce215b,wood article,medical products,B05,0.0
+77d6257d73e5fc09,wood article,natural wood,B05,0.25
+b253958e34ce2626,wood article,news article,B05,0.0
+db3af2f498d8729f,wood article,plastic articles,B05,0.0
+a5afcade9974c641,wood article,substrate,B05,0.25
+39eb5029905f1609,wood article,timber product,B05,0.75
+b9ccb3a166dfdb43,wood article,wood,B05,0.5
+ee0746f2a8ecef97,wood article,wood articles,B05,1.0
+568db409cb8f71d8,wood article,wood furniture,B05,0.5
+3cada3d937b8319f,wood article,wood material,B05,0.75
+bf773845987c10d2,wood article,wood product,B05,0.75
+327a0ea82c74258f,wood article,wood spray,B05,0.25
+ecaf479135cf0dfd,wood article,wooden article,B05,1.0
+67285d209727fd19,wood article,wooden box,B05,0.5
+1f22ac548e767c15,wood article,wooden chair,B05,0.5
+016509ad74b54592,wood article,wooden handle,B05,0.5
+3d8f53d6f94398cf,wood article,wooden item,B05,0.75
+598540d63c7cafcb,wood article,board,B27,0.5
+f086ba9867671857,wood article,article generator,B44,0.0
+c7e11e374c52eec4,wood article,article spinner,B44,0.0
+c93eebfb43880214,wood article,article spinning,B44,0.0
+c997d1dc4fbcd02b,wood article,article tracking system,B44,0.0
+073d431017ab05c2,wood article,compressed wood,B44,0.25
+21a7661cd6d6d98b,wood article,copper bar surface machining,B44,0.25
+995823e66bcc2a5f,wood article,cricket bat,B44,0.25
+c9a06eeefe49f340,wood article,cylindrical carving machine,B44,0.25
+0ec9d10583af7bae,wood article,embossing device,B44,0.25
+4c6c4f4cd02bef2a,wood article,lumber article,B44,0.75
+c39562545baa4041,wood article,natural wood,B44,0.25
+1d5bb300f80bc6db,wood article,plastic articles,B44,0.0
+eb97f5479effe5c0,wood article,plywood article,B44,0.5
+ede41dd2a61bb0a9,wood article,substrate,B44,0.25
+4f366b6369dbfbf2,wood article,timber article,B44,0.75
+2cac15df9f918089,wood article,timber product,B44,0.75
+51421420985d5c93,wood article,wood,B44,0.5
+16a5c8551e534d1c,wood article,wood apple fruit,B44,0.0
+8ceaa2b5c2d56250,wood article,wood article,B44,1.0
+c4ac9d407fb427ab,wood article,wood logs,B44,0.5
+8a57100f6ee40ffc,wood article,wood material,B44,0.75
+f55e072f78d1fedb,wood article,wood substrate,B44,0.5
+8e1386cbefd7f245,wood article,wooden article,B44,1.0
+42d9e032d1cd3242,wood article,wooden box,B44,0.5
+208654ccb9e14fa3,wood article,wooden handle,B44,0.5
+756ec035e694722b,wood article,wooden material,B44,0.75
+8d135da0b55b8c88,wood article,wooden substrate,B44,0.5
